@@ -1,3 +1,3 @@
-# python
+# notes
 
-### notes
+personal notes
