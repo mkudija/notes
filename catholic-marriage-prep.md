@@ -31,7 +31,9 @@ The Mystic](http://www.wordonfire.org/wof-site/media/pp-stcatherine-samplelesson
 [Dr. Timothy O'Malley](http://theology.nd.edu/people/concurrent-and-adjunct-faculty/timothy-omalley/) is the Directory of the [Notre Dame Center for Liturgy](http://liturgy.nd.edu/). Dr. O'Malley is a former professor of mine, and shared with me the syllabus for a course he is teaching (fall 2016) on marriage entitled "The Nuptial Mystery: Divine Love and Human Salvation." 
 
 * [Course Description](https://class-search.nd.edu/reg/srch/ClassSearchServlet?CRN=20652&TERM=201610&P=401094): 
+
 > "This course introduces students to the study of theology through attention to the sacrament of marriage. The structure of the course, drawn from the rite of marriage, seeks to understand the nature of divine and human love and how this love is salvific for the human person. The course, grounded in historical study, will introduce students to major sources for Christian theology. The class will treat themes related to a natural theology of love; the understanding of God as lover within the Scriptures and the Tradition; sexual ethics and a theology of family life; and, a spirituality of marriage in the modern age."
+
 * [Course Books](http://www.bkstr.com/webapp/wcs/stores/servlet/booklookServlet?bookstore_id-1=700&term_id-1=201610&div-1=&dept-1=THEO&course-1=20425&section-1=01)
 
 I did not complete the full reading for the course, but found several books and essays helpful. 
