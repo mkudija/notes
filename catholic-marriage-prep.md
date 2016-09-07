@@ -50,6 +50,23 @@ I did not complete the full reading for the course, but found several books and 
 - [ ] [Catechism of the Catholic Church - The Sacraments at the Service of Communion](http://www.vatican.va/archive/ccc_css/archive/catechism/p2s2c3a7.htm)
 - [ ] [Compendium of the Social Doctrine of the Church](http://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_en.html)
 - [x] [Address of Pope Francis to Engaged Couples Preparing for Marriage](https://w2.vatican.va/content/francesco/en/speeches/2014/february/documents/papa-francesco_20140214_incontro-fidanzati.html)
+  1. “Your Holiness, many today think that life-long fidelity is too challenging; many feel that the struggle to live together may be beautiful, enchanting, but it is difficult, even impossible. We ask you for a word to enlighten us on this”.
+    - "True love is the love that comes from God"
+    - "How does one cure the fear of the 'forever'?...day by day"
+    - "The Lord can multiply your love"
+    - We need to repeat this prayer: "Lord give us this day our daily love."
+  2. “Your Holiness, every day life together is beautiful, it gives joy, and support. But it is a challenge to face. We believe that we need to learn how to love one another. There is a “style” of life as a couple, a spirituality of daily life that we want to take on. Can you help us in this Holy Father?”
+    - We must remember these 3 phrases:
+    - May I? - courtesy kindles love
+    - Thank you - remember that the other person is a gft from God
+    - I'm sorry - never let the sun go down without making peace
+  3. “Your Holiness, in these months we are preparing for our wedding. Can you give us some advice on how to celebrate our marriage well?”
+    - "That which makes your wedding full and profoundly true will be the presence of the Lord who reveals himself and gives his grace"
+    - "Make it so that, like the wine in Cana, the exterior signs of your [wedding] celebration reveal the Lord's presence and remind you and everyone present of the origin and the reason for your joy, [the Lord's blessing on your love]" 
+
+
+
+
 - [ ] [The Vatican Declaration on Secual Ethics](http://spot.colorado.edu/~tooley/VaticanDeclaration.pdf)
 - [ ] [Sacrament of Marriage: Sign of Faithful Love](http://www.sjotctx.org/pdf/marriage5.pdf) by Thomas Richstatter, O.F.M., Th.D.
 - [ ] [Marriage: Love and Life in the Divine Plan](http://www.usccb.org/issues-and-action/marriage-and-family/marriage/love-and-life/upload/pastoral-letter-marriage-love-and-life-in-the-divine-plan.pdf), USCCB
