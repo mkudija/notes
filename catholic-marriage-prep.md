@@ -35,7 +35,7 @@ The Mystic](http://www.wordonfire.org/wof-site/media/pp-stcatherine-samplelesson
 * [Course Books](http://www.bkstr.com/webapp/wcs/stores/servlet/booklookServlet?bookstore_id-1=700&term_id-1=201610&div-1=&dept-1=THEO&course-1=20425&section-1=01)
 
 I did not complete the full reading for the course, but found several books and essays helpful. 
-- list
+- [Marriage: The Mystery of Faithful Love](http://www.cathud.com/emarriage.pdf) by Dietrich Von Hildebrand
 - ....
 - ....
 
@@ -55,6 +55,3 @@ I did not complete the full reading for the course, but found several books and 
 #### Prayers
 - [Novena for a Happy and Faithful Marriage](http://www.josemariaescriva.info/docs/marriage-novena-st-josemaria.pdf)
 - [Litany of Marriage & Family](http://www.sfcatholic.org/dwc/Files/OfficeofRespectLife/Marriage/Litany%20of%20Marriage%20and%20Family.pdf)
-
-### 6. Need to Sorting
-http://www.cathud.com/emarriage.pdf
