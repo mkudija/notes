@@ -6,7 +6,7 @@
 | ---------------- |:-------------|
 | Jul. 29, 2016    | Engagement   | 
 | August 2016      | Confirmed date at Our Lady of Victory |
-| Aug. ??, 2016    | Initial meeting with priest | 
+| Aug. 19, 2016    | Initial meeting with priest | 
 | September 2016   | Began compiling marriage preparation amterials | 
 | Oct. 14-16, 2016 | Engaged Encounter Retreat
 
