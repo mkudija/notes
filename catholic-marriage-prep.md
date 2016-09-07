@@ -20,7 +20,7 @@
 - [ ] [St. Catherine of Sienca,
 The Mystic](http://www.wordonfire.org/wof-site/media/pp-stcatherine-samplelessonpdf.pdf), Word on Fire
 - [ ] [Guide to St. Catherine's Dialogue](http://www.drawnbylove.com/pdf/Ashley%20Guide%20to%20Saint%20Catherine's%20Dialogue.pdf), by Benedict Ashley, O.P.
-- [ ] [Mystical Marriage of Saint Catherine](https://en.wikipedia.org/wiki/Mystical_marriage_of_Saint_Catherine)
+- [x] [Mystical Marriage of Saint Catherine](https://en.wikipedia.org/wiki/Mystical_marriage_of_Saint_Catherine)
 
 ### 2. Nuptial Mass
 - [ ] [Celebrating the Sacrament of Marriage](http://www.saintmarymagdalen.org/pdf%20files/WeddingBooklet.pdf), St. Mary Magdalen Catholic Church (Brighton, Michigan)
@@ -45,7 +45,7 @@ I did not complete the full reading for the course, but found several books and 
 
 - [ ] [Catechism of the Catholic Church - The Sacraments at the Service of Communion](http://www.vatican.va/archive/ccc_css/archive/catechism/p2s2c3a7.htm)
 - [ ] [Compendium of the Social Doctrine of the Church](http://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_en.html)
-- [ ] [Address of Pope Francis to Engaged Couples Preparing for Marriage](https://w2.vatican.va/content/francesco/en/speeches/2014/february/documents/papa-francesco_20140214_incontro-fidanzati.html)
+- [x] [Address of Pope Francis to Engaged Couples Preparing for Marriage](https://w2.vatican.va/content/francesco/en/speeches/2014/february/documents/papa-francesco_20140214_incontro-fidanzati.html)
 - [ ] [The Vatican Declaration on Secual Ethics](http://spot.colorado.edu/~tooley/VaticanDeclaration.pdf)
 - [ ] [Sacrament of Marriage: Sign of Faithful Love](http://www.sjotctx.org/pdf/marriage5.pdf) by Thomas Richstatter, O.F.M., Th.D.
 - [ ] [Marriage: Love and Life in the Divine Plan](http://www.usccb.org/issues-and-action/marriage-and-family/marriage/love-and-life/upload/pastoral-letter-marriage-love-and-life-in-the-divine-plan.pdf), USCCB
