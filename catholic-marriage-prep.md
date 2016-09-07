@@ -2,15 +2,15 @@
 
 ## The Process
 
-| Date             | Event        |
-| ---------------- |:-------------|
-| Jul. 29, 2016    | Engagement   | 
-| August 2016      | Confirmed date at Our Lady of Victory |
-| Aug. 19, 2016    | Initial meeting with priest | 
-| September 2016   | Began compiling marriage preparation amterials | 
-| Oct. 14-16, 2016 | Engaged Encounter Retreat | 
+| Date                | Event        |
+| ------------------- |:-------------|
+| July 29, 2016       | Engagement   | 
+| August 2016         | Confirmed date at Our Lady of Victory |
+| August 19, 2016     | Initial meeting with priest | 
+| September 2016      | Began compiling marriage preparation materials | 
+| October 14-16, 2016 | Engaged Encounter Retreat | 
 | ... | ... | 
-| Apr. 29, 2017  | Wedding | 
+| April 29, 2017      | Wedding | 
 
 ## Engaged Encounter
 
@@ -63,10 +63,6 @@ I did not complete the full reading for the course, but found several books and 
   3. “Your Holiness, in these months we are preparing for our wedding. Can you give us some advice on how to celebrate our marriage well?”
     - "That which makes your wedding full and profoundly true will be the presence of the Lord who reveals himself and gives his grace"
     - "Make it so that, like the wine in Cana, the exterior signs of your [wedding] celebration reveal the Lord's presence and remind you and everyone present of the origin and the reason for your joy, [the Lord's blessing on your love]" 
-
-
-
-
 - [ ] [The Vatican Declaration on Secual Ethics](http://spot.colorado.edu/~tooley/VaticanDeclaration.pdf)
 - [ ] [Sacrament of Marriage: Sign of Faithful Love](http://www.sjotctx.org/pdf/marriage5.pdf) by Thomas Richstatter, O.F.M., Th.D.
 - [ ] [Marriage: Love and Life in the Divine Plan](http://www.usccb.org/issues-and-action/marriage-and-family/marriage/love-and-life/upload/pastoral-letter-marriage-love-and-life-in-the-divine-plan.pdf), USCCB
