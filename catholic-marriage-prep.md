@@ -40,6 +40,33 @@ The Mystic](http://www.wordonfire.org/wof-site/media/pp-stcatherine-samplelesson
 
 I did not complete the full reading for the course, but found several books and essays helpful. 
 - [ ] [Marriage: The Mystery of Faithful Love](http://www.cathud.com/emarriage.pdf) by Dietrich Von Hildebrand
+  - Love is the core of marriage (*meaning* and *end*)
+  - Conjugal love involves mutual self-giving, complete and ultimate
+  - Conjugal love is the most profound *I-thou* relationship
+  - Conjugal love involves a decision: I love **you**
+  - Conjugal love reeals the whole being of the beloved: "Love is that which gives us sight"
+  - Conjugal love is possible only between a man and woman
+  - Being in love is not infatuation
+  - Conjugal love is not an illusion: love is the "melting of the soul"
+  - Being in love is an element of conjugal love
+  - Polygamy is essentially contrary to conjugal love
+  - Conjugal exclusiveness differs from possessiveness
+  - Marriage is more than conjugal love
+  - Marriage creates an objective bond, which unites the spouses
+  - Marriage comes from a free decision
+  - Marriage is exclusive and irrevocable; it involves ultimate intimacy and surrender
+  - Love is the meaning of sexual union
+  - Procreation and the communion of love must never deliberately be separated
+  - Childless marriages may thonetheless fulfil the ideal of marriage
+  - Every marriage filled with love is fruitful
+  - Only marriage justifies physical union
+  - Loe must be nourished in every marriage
+  - Love's task in the best of marriages: never lose the sense of wonderful mystery 
+  - Love's task in imperfect marriages: try to see the other in the highest light
+  - Love's task in troubled marriages: sacrifice and renunciation in the care for the salvation of the other
+  - Each marriage has its own particular task
+  - **continue after pg. 25**...
+  -  
 - ....
 - ....
 
