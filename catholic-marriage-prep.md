@@ -95,6 +95,7 @@ I did not complete the full reading for the course, but found several books and 
 - [ ] [Marriage: Love and Life in the Divine Plan](http://www.usccb.org/issues-and-action/marriage-and-family/marriage/love-and-life/upload/pastoral-letter-marriage-love-and-life-in-the-divine-plan.pdf), USCCB
 - [ ] [USCCB on Marriage](http://www.usccb.org/issues-and-action/marriage-and-family/natural-family-planning/catholic-teaching/upload/Marriage-2.pdf)
 - [ ] [Catholic Marriage](http://www.catholicpamphlets.net/pamphlets/Catholic%20Marriage.pdf), By Daniel A. Lord S.J.
+- [x] [Sex, Family and the Liberty of the Church](http://archphila.org/2016-tocqueville-lecture-on-religious-liberty-at-the-university-of-notre-dame-sex-family-and-the-liberty-of-the-church/), Archbishop Charles J. Chaput, University of Notre Dame
 
 #### Prayers
 - [ ] [Novena for a Happy and Faithful Marriage](http://www.josemariaescriva.info/docs/marriage-novena-st-josemaria.pdf)
