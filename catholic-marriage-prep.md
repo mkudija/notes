@@ -18,6 +18,14 @@
 
 ## Reading Materials
 
+### General
+
+- [How to Spiritually Prepare for Marriage (+ A Checklist!)](http://catholickatie.com/writing/marriage.html)
+
+### Lists of Marriage Preparation Books
+- [The Engaged and Newlywed Book List](http://catholickatie.com/writing/127.html)
+
+
 ### 1. St. Catherine of Siena
 - [ ] [St. Catherine of Sienca,
 The Mystic](http://www.wordonfire.org/wof-site/media/pp-stcatherine-samplelessonpdf.pdf), Word on Fire
