@@ -19,7 +19,6 @@
 ## Reading Materials
 
 ### General
-
 - [How to Spiritually Prepare for Marriage (+ A Checklist!)](http://catholickatie.com/writing/marriage.html)
 
 ### Lists of Marriage Preparation Books
@@ -80,7 +79,7 @@ I did not complete the full reading for the course, but found several books and 
 
 ### 4. Natural Family Planning
 
-### 5. Other
+### 5. Other (general)
 
 - [ ] [Catechism of the Catholic Church - The Sacraments at the Service of Communion](http://www.vatican.va/archive/ccc_css/archive/catechism/p2s2c3a7.htm)
 - [ ] [Compendium of the Social Doctrine of the Church](http://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_en.html)
@@ -104,6 +103,17 @@ I did not complete the full reading for the course, but found several books and 
 - [ ] [USCCB on Marriage](http://www.usccb.org/issues-and-action/marriage-and-family/natural-family-planning/catholic-teaching/upload/Marriage-2.pdf)
 - [ ] [Catholic Marriage](http://www.catholicpamphlets.net/pamphlets/Catholic%20Marriage.pdf), By Daniel A. Lord S.J.
 - [x] [Sex, Family and the Liberty of the Church](http://archphila.org/2016-tocqueville-lecture-on-religious-liberty-at-the-university-of-notre-dame-sex-family-and-the-liberty-of-the-church/), Archbishop Charles J. Chaput, University of Notre Dame
+
+### 6. Other (Books)
+
+- [x] *Project Holiness: Marriage as a Workshop for Everyday Saints* by Bridget Burke Ravizza and Julie Donovan Massey
+  - Deepen the friendship that you share with your spouse. And, together, deepen the friendship you have with God.
+  - Love one another passionately and justly.
+  - See your marraige as a fruitful place to encounter God.
+  - Practice mercy.
+  - Support one another in suffering.
+  - Be faithful.
+  - Root yourselves in a community of faith.
 
 #### Prayers
 - [ ] [Novena for a Happy and Faithful Marriage](http://www.josemariaescriva.info/docs/marriage-novena-st-josemaria.pdf)
