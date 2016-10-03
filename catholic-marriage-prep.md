@@ -103,6 +103,7 @@ I did not complete the full reading for the course, but found several books and 
 - [ ] [USCCB on Marriage](http://www.usccb.org/issues-and-action/marriage-and-family/natural-family-planning/catholic-teaching/upload/Marriage-2.pdf)
 - [ ] [Catholic Marriage](http://www.catholicpamphlets.net/pamphlets/Catholic%20Marriage.pdf), By Daniel A. Lord S.J.
 - [x] [Sex, Family and the Liberty of the Church](http://archphila.org/2016-tocqueville-lecture-on-religious-liberty-at-the-university-of-notre-dame-sex-family-and-the-liberty-of-the-church/), Archbishop Charles J. Chaput, University of Notre Dame
+- [x] [Art of Manliness Podcast: Saving Your Marriage Before It Starts](https://soundcloud.com/artofmanliness/239-saving-your-marriage-before-it-starts)
 
 ### 6. Other (Books)
 
@@ -114,6 +115,7 @@ I did not complete the full reading for the course, but found several books and 
   - Support one another in suffering.
   - Be faithful.
   - Root yourselves in a community of faith.
+
 
 #### Prayers
 - [ ] [Novena for a Happy and Faithful Marriage](http://www.josemariaescriva.info/docs/marriage-novena-st-josemaria.pdf)
