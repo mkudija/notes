@@ -115,6 +115,11 @@ I did not complete the full reading for the course, but found several books and 
   - Support one another in suffering.
   - Be faithful.
   - Root yourselves in a community of faith.
+  
+  
+### 7. Other (Articles)
+
+- [x] [The Art of Apologizing](http://www.startmarriageright.com/2016/08/the-art-of-apologizing/)
 
 
 #### Prayers
