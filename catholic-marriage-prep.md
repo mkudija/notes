@@ -24,6 +24,8 @@
 ### Lists of Marriage Preparation Books
 - [The Engaged and Newlywed Book List](http://catholickatie.com/writing/127.html)
 
+### Videos
+- [x] [Reflections on the New Order for Celebrating Matrimony](https://vimeo.com/187742540) by [Msgr James P Moroney](https://twitter.com/rectorsjs)
 
 ### 1. St. Catherine of Siena
 - [ ] [St. Catherine of Sienca,
