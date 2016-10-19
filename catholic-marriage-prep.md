@@ -48,7 +48,7 @@ The Mystic](http://www.wordonfire.org/wof-site/media/pp-stcatherine-samplelesson
 * [Course Books](http://www.bkstr.com/webapp/wcs/stores/servlet/booklookServlet?bookstore_id-1=700&term_id-1=201610&div-1=&dept-1=THEO&course-1=20425&section-1=01)
 
 I did not complete the full reading for the course, but found several books and essays helpful. 
-- [ ] [Marriage: The Mystery of Faithful Love](http://www.cathud.com/emarriage.pdf) by Dietrich Von Hildebrand
+- [x] [Marriage: The Mystery of Faithful Love](http://www.cathud.com/emarriage.pdf) by Dietrich Von Hildebrand
   - Love is the core of marriage (*meaning* and *end*)
   - Conjugal love involves mutual self-giving, complete and ultimate
   - Conjugal love is the most profound *I-thou* relationship
@@ -74,10 +74,32 @@ I did not complete the full reading for the course, but found several books and 
   - Love's task in imperfect marriages: try to see the other in the highest light
   - Love's task in troubled marriages: sacrifice and renunciation in the care for the salvation of the other
   - Each marriage has its own particular task
-  - **continue after pg. 25**...
-  -  
-- ....
-- ....
+  - Sacramental marriage transfigures natural marriage, and offers the highest and noblest earthly happiness
+  - Christian conjugal love sees the beloved as an image of God
+  - Christianity deepens and intensifies conjugal love
+  - Christian conjugal love desires the eternal welfare of the beloved
+  - Christian conjugal love avoids idolatry of the beloved
+  - Christian conjugal love is spiritually fruitful
+  - Marriage attains its full dignity only in Christ
+  - Christian marriage is a form of consecration to God
+  - Christian marriage is essentially (in nature) related to God
+  - Sacramental marriage is a source of grace
+  - Sacramentally, marriage is like Holy Orders  
+  - The indissolubility of marriage presupposes the existence of God
+  - Sacramental marriage is the perfection of marriage
+  - The indissolubility of marriage arises from its intrinsic sublimity
+  - Conjugal love seeks the indissolubility of marriage
+  - Irrevocable self-giving fulfils conjugal love
+  - Conjugal love requires a heroic spirit: all great things on earth are connected with risk
+  - Mutual love is the proper motive for marriage: to lead to the eternal welfare of both souses
+  - Other motives are sometimes permissible (deep esteem for each other and formation of a noble community life)
+  - Unworthy or reprehensible motives for marriage do not justify it, but can be transformed into love that glorifies God
+  - Only a marriage motivated by love is reasonable
+  - Marriage is the highest of human communities: it involves the person in his whole nature
+  - Marriage is greater than the nation or the state
+  - Christian marriage directly glorifies God
+  - Sacramental marriage quickens love of Jesus
+  - Yet consecrated virginity is superior to marriage: it is marriage with Jesus Himself
 
 ### 4. Natural Family Planning
 
