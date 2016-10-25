@@ -22,6 +22,7 @@
 - [ ] [Sacrament of Marriage: Sign of Faithful Love](http://www.sjotctx.org/pdf/marriage5.pdf) by Thomas Richstatter, O.F.M., Th.D.
 - [ ] [Marriage: Love and Life in the Divine Plan](http://www.usccb.org/issues-and-action/marriage-and-family/marriage/love-and-life/upload/pastoral-letter-marriage-love-and-life-in-the-divine-plan.pdf), USCCB
 - [ ] [USCCB on Marriage](http://www.usccb.org/issues-and-action/marriage-and-family/natural-family-planning/catholic-teaching/upload/Marriage-2.pdf)
+- [ ] [Diocese of Columbus Policies and Guidelines for Marriage Preparation](http://www.colsdioc.org/Portals/0/Departments/CHO/Documents/Marriage%20Policy%202010.pdf)
 - [x] [Address of Pope Francis to Engaged Couples Preparing for Marriage](https://w2.vatican.va/content/francesco/en/speeches/2014/february/documents/papa-francesco_20140214_incontro-fidanzati.html)
   1. “Your Holiness, many today think that life-long fidelity is too challenging; many feel that the struggle to live together may be beautiful, enchanting, but it is difficult, even impossible. We ask you for a word to enlighten us on this”.
     - "True love is the love that comes from God"
