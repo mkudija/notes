@@ -20,7 +20,7 @@
 - [ ] [Compendium of the Social Doctrine of the Church](http://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_en.html)
 - [ ] [The Vatican Declaration on Secual Ethics](http://spot.colorado.edu/~tooley/VaticanDeclaration.pdf)
 - [ ] [Sacrament of Marriage: Sign of Faithful Love](http://www.sjotctx.org/pdf/marriage5.pdf) by Thomas Richstatter, O.F.M., Th.D.
-- [ ] [Marriage: Love and Life in the Divine Plan](http://www.usccb.org/issues-and-action/marriage-and-family/marriage/love-and-life/upload/pastoral-letter-marriage-love-and-life-in-the-divine-plan.pdf), USCCB
+- [x] [Marriage: Love and Life in the Divine Plan](http://www.usccb.org/issues-and-action/marriage-and-family/marriage/love-and-life/upload/pastoral-letter-marriage-love-and-life-in-the-divine-plan.pdf), USCCB
 - [ ] [USCCB on Marriage](http://www.usccb.org/issues-and-action/marriage-and-family/natural-family-planning/catholic-teaching/upload/Marriage-2.pdf)
 - [ ] [Diocese of Columbus Policies and Guidelines for Marriage Preparation](http://www.colsdioc.org/Portals/0/Departments/CHO/Documents/Marriage%20Policy%202010.pdf)
 - [x] [Address of Pope Francis to Engaged Couples Preparing for Marriage](https://w2.vatican.va/content/francesco/en/speeches/2014/february/documents/papa-francesco_20140214_incontro-fidanzati.html)
