@@ -16,6 +16,7 @@
 - [x] [*Humanae Vitae*: On the Regulation of Birth](http://w2.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html), Paul VI 
 - [ ] [*Familiaris Consortio:* On the Role of the Christian Family in the Modern World](http://w2.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio.html), John Paul II
 - [x] [*Amoris Laetitia:* On Love in the Family](https://w2.vatican.va/content/dam/francesco/pdf/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia_en.pdf), Francis
+- [ ] [*Mulieris Dignitatem* by John Paul II](http://www.thecatholicviewforwomen.com/episodes/mulieris-dignitatem.pdf)
 - [ ] [Catechism of the Catholic Church - The Sacraments at the Service of Communion](http://www.vatican.va/archive/ccc_css/archive/catechism/p2s2c3a7.htm)
 - [ ] [Compendium of the Social Doctrine of the Church](http://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_en.html)
 - [ ] [The Vatican Declaration on Secual Ethics](http://spot.colorado.edu/~tooley/VaticanDeclaration.pdf)
