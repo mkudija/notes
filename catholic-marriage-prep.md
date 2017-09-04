@@ -145,7 +145,7 @@ and the Family for the New Evangelization*](https://www.amazon.com/Mystery-Sacra
 - [x] [*How Social Media Can Ruin Your Marriage*](https://relevantmagazine.com/article/how-social-media-can-ruin-your-marriage/) by Zack Carter (*Relevant*)
 - [x] [*The Best Ways to Fund Your Relationship Bank Account*](http://www.artofmanliness.com/2017/03/06/best-ways-fund-relationship-bank-account/) by Brett and Kate McKay (*Art of Manliness*)
 - [ ] [*Discerning as a Couple*](http://www.ignatianspirituality.com/24916/discerning-as-a-couple) by Becky Eldredge
-- [ ] [*Laugh Your Way to a Better Marriage](https://www.youtube.com/watch?v=ntk1Tl7dscI) (video)
+- [ ] [*Laugh Your Way to a Better Marriage*](https://www.youtube.com/watch?v=ntk1Tl7dscI) (video)
 - [ ] [*The Humanum Series*](https://vimeo.com/ondemand/humanum) (video)
 
 ### Other Resources
