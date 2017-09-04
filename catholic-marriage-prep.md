@@ -1,13 +1,5 @@
 # Catholic Marriage Preparation
 
-## The Process
-
-| Date                | Event        |
-| ------------------- |:-------------|
-| July 29, 2016       | Engagement   | 
-| January 6-8, 2017   | Engaged Encounter Retreat | 
-| April 29, 2017      | Wedding | 
-
 ## Reading Materials
 ### Church Documents
 - [x] [*Humanae Vitae: On the Regulation of Birth*](http://w2.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html) by Paul VI 
@@ -37,9 +29,17 @@
     - "Make it so that, like the wine in Cana, the exterior signs of your [wedding] celebration reveal the Lord's presence and remind you and everyone present of the origin and the reason for your joy, [the Lord's blessing on your love]" 
 
 ### Other Books
-- [x] *Project Holiness: Marriage as a Workshop for Everyday Saints* by Bridget Burke Ravizza and Julie Donovan Massey
-- [x] *What Is Marriage – Man and Woman: A Defense* by Sherif Girgis, Ryan T. Anderson, and Robert P. George
-- [x] *For Better Forever: A Catholic Guide to Lifelong Marriage* by Gregory K. Popcak
+- [x] [*Project Holiness: Marriage as a Workshop for Everyday Saints*](https://www.amazon.com/Project-Holiness-Marriage-Workshop-Everyday-ebook/dp/B016F1Y2E2/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1504567028&sr=1-1-catcorr&keywords=Project+Holiness%3A+Marriage+as+a+Workshop+for+Everyday+Saints) by Bridget Burke Ravizza and Julie Donovan Massey
+- [x] [*What Is Marriage – Man and Woman: A Defense*](https://www.amazon.com/What-Marriage-Man-Woman-Defense-ebook/dp/B00A69JZG0/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1504567294&sr=1-1&keywords=What+Is+Marriage+%E2%80%93+Man+and+Woman%3A+A+Defense) by Sherif Girgis, Ryan T. Anderson, and Robert P. George
+- [x] [*Witness to Love: How to Help the Next Generation Build Marriages that Survive and Thrive*](https://www.amazon.com/Witness-Love-Generation-Marriages-Survive-ebook/dp/B013CQ83PC/ref=sr_1_fkmr0_1?s=digital-text&ie=UTF8&qid=1504567274&sr=1-1-fkmr0&keywords=Witness+to+Love%3A+How+to+Help+the+Next+Generation+B) by Ryan and Mary-Rose Verret
+- [x] [*His Needs Her Needs: Building an Affair-Proof Marriage*](https://www.amazon.com/His-Needs-Her-Building-Affair-Proof-ebook/dp/B004HKIIBC/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1504567358&sr=1-1&keywords=His+Needs+Her+Needs%3A+Building+an+Affair-Proof+Marriage) by Willard F. Harley, Jr.
+- [ ] [*You and Me Forever: Marriage in Light of Eternity*](https://www.amazon.com/You-Me-Forever-Marriage-Eternity/dp/0990351408/ref=sr_1_1?ie=UTF8&qid=1504567092&sr=8-1&keywords=you+and+me+forever+chan) by Francis Chan and Lisa Chan
+- [ ] [*The Gospel of the Family*](https://www.amazon.com/Gospel-Family-Cardinal-Walter-Kasper-ebook/dp/B00J4VP0U6/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1504567207&sr=1-1&keywords=the+gospel+of+the+family) by Cardinal Walter Kasper
+- [ ] [*The Choice Wine: 7 Steps to a Superabundant Marriage*](https://www.amazon.com/Choice-Wine-Steps-Superabundant-Marriage-ebook/dp/B01B3FKRSK/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1504567466&sr=1-1&keywords=choice+wine+marriage) by Steve Bollman
+- [ ] [*The Sinner's Guide to Natural Family Planning*](https://www.amazon.com/Sinners-Guide-Natural-Family-Planning/dp/1612787878/ref=sr_1_1?ie=UTF8&qid=1504567476&sr=8-1&keywords=sinner%27s+guide+to+natural+family+planning) by Simcha Fisher
+- [ ] [*Head & Heart: Becoming Spiritual Leaders for Your Family*](https://www.amazon.com/Head-Heart-Becoming-Spiritual-Leaders/dp/1941447287/ref=sr_1_1?ie=UTF8&qid=1504567601&sr=8-1&keywords=head+and+heart+katie+warner) by Katie Warner
+- [ ] [*Holy Sex!: A Catholic Guide to Toe-Curling, Mind-Blowing, Infallible Loving*](https://www.amazon.com/Holy-Sex-Toe-Curling-Mind-Blowing-Infallible-ebook/dp/B00YLQUA0Y/ref=sr_1_2?ie=UTF8&qid=1504567483&sr=8-2&keywords=holy+sex) by Gregory Popcack
+- [x] [*For Better Forever: A Catholic Guide to Lifelong Marriage*](https://www.amazon.com/Better-Forever-Catholic-Lifelong-1999-04-01/dp/B01K93NCRK/ref=sr_1_1?s=books&ie=UTF8&qid=1504567650&sr=1-1&keywords=For+Better+Forever%3A+A+Catholic+Guide+to+Lifelong+Marriage) by Gregory K. Popcak
   - Deepen the friendship that you share with your spouse. And, together, deepen the friendship you have with God.
   - Love one another passionately and justly.
   - See your marraige as a fruitful place to encounter God.
@@ -47,11 +47,6 @@
   - Support one another in suffering.
   - Be faithful.
   - Root yourselves in a community of faith.
-- [x] *Witness to Love: How to Help the Next Generation Build Marriages that Survive and Thrive* by Ryan and Mary-Rose Verret
-- [x] *His Needs Her Needs: Building an Affair-Proof Marriage* by Willard F. Harley, Jr.
-- [ ] 
-- [ ] 
-- [ ] 
 
 ### St. Catherine of Siena
 - [ ] [St. Catherine of Sienca,
@@ -146,3 +141,11 @@ and the Family for the New Evangelization*](https://www.amazon.com/Mystery-Sacra
 
 ## Natural Family Planning
 See [here](https://github.com/mkudija/Creighton-Model-Chart/blob/master/README.md) for some links to information about NFP.
+
+## Our Process
+
+| Date                | Event        |
+| ------------------- |:-------------|
+| July 29, 2016       | Engagement   | 
+| January 6-8, 2017   | Engaged Encounter Retreat | 
+| April 29, 2017      | Wedding | 
