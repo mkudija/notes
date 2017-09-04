@@ -29,6 +29,7 @@
     - "Make it so that, like the wine in Cana, the exterior signs of your [wedding] celebration reveal the Lord's presence and remind you and everyone present of the origin and the reason for your joy, [the Lord's blessing on your love]" 
 
 ### Other Books
+- [x] [*Preparing for Marriage*](https://www.amazon.com/Preparing-Marriage-Dennis-Rainey/dp/0764215507) by Dennis Rainey
 - [x] [*Project Holiness: Marriage as a Workshop for Everyday Saints*](https://www.amazon.com/Project-Holiness-Marriage-Workshop-Everyday-ebook/dp/B016F1Y2E2/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1504567028&sr=1-1-catcorr&keywords=Project+Holiness%3A+Marriage+as+a+Workshop+for+Everyday+Saints) by Bridget Burke Ravizza and Julie Donovan Massey
 - [x] [*What Is Marriage – Man and Woman: A Defense*](https://www.amazon.com/What-Marriage-Man-Woman-Defense-ebook/dp/B00A69JZG0/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1504567294&sr=1-1&keywords=What+Is+Marriage+%E2%80%93+Man+and+Woman%3A+A+Defense) by Sherif Girgis, Ryan T. Anderson, and Robert P. George
 - [x] [*Witness to Love: How to Help the Next Generation Build Marriages that Survive and Thrive*](https://www.amazon.com/Witness-Love-Generation-Marriages-Survive-ebook/dp/B013CQ83PC/ref=sr_1_fkmr0_1?s=digital-text&ie=UTF8&qid=1504567274&sr=1-1-fkmr0&keywords=Witness+to+Love%3A+How+to+Help+the+Next+Generation+B) by Ryan and Mary-Rose Verret
@@ -38,6 +39,10 @@
 - [ ] [*The Choice Wine: 7 Steps to a Superabundant Marriage*](https://www.amazon.com/Choice-Wine-Steps-Superabundant-Marriage-ebook/dp/B01B3FKRSK/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1504567466&sr=1-1&keywords=choice+wine+marriage) by Steve Bollman
 - [ ] [*The Sinner's Guide to Natural Family Planning*](https://www.amazon.com/Sinners-Guide-Natural-Family-Planning/dp/1612787878/ref=sr_1_1?ie=UTF8&qid=1504567476&sr=8-1&keywords=sinner%27s+guide+to+natural+family+planning) by Simcha Fisher
 - [ ] [*Head & Heart: Becoming Spiritual Leaders for Your Family*](https://www.amazon.com/Head-Heart-Becoming-Spiritual-Leaders/dp/1941447287/ref=sr_1_1?ie=UTF8&qid=1504567601&sr=8-1&keywords=head+and+heart+katie+warner) by Katie Warner
+- [ ] [*Men, Women, and the Mystery of Love: Practical Insights from John Paul II’s Love and Responsibility*](https://www.amazon.com/Men-Women-Mystery-Love-Responsibility/dp/1632530805/ref=sr_1_1?ie=UTF8&qid=1504568035&sr=8-1&keywords=Men%2C+Women+and+the+Mystery+of+Love) by Edward Sri
+- [ ] [*Three to Get Married*](https://www.amazon.com/Three-Get-Married-Fulton-Sheen/dp/0933932871/ref=sr_1_1?ie=UTF8&qid=1504568020&sr=8-1&keywords=3+to+get+married) by Fulton Sheen
+- [ ]
+- [ ] [*Just Marrried: The Catholic Guide to Surviving and Thriving in the First Five Years of Marriage*](https://www.amazon.com/Just-Marrried-Catholic-Surviving-Thriving-ebook/dp/B01N2OIYC0/ref=sr_1_2?ie=UTF8&qid=1504567801&sr=8-2&keywords=catholic+marriage) by Gregory and Lisa Popcak
 - [ ] [*Holy Sex!: A Catholic Guide to Toe-Curling, Mind-Blowing, Infallible Loving*](https://www.amazon.com/Holy-Sex-Toe-Curling-Mind-Blowing-Infallible-ebook/dp/B00YLQUA0Y/ref=sr_1_2?ie=UTF8&qid=1504567483&sr=8-2&keywords=holy+sex) by Gregory Popcack
 - [x] [*For Better Forever: A Catholic Guide to Lifelong Marriage*](https://www.amazon.com/Better-Forever-Catholic-Lifelong-1999-04-01/dp/B01K93NCRK/ref=sr_1_1?s=books&ie=UTF8&qid=1504567650&sr=1-1&keywords=For+Better+Forever%3A+A+Catholic+Guide+to+Lifelong+Marriage) by Gregory K. Popcak
   - Deepen the friendship that you share with your spouse. And, together, deepen the friendship you have with God.
@@ -128,13 +133,20 @@ and the Family for the New Evangelization*](https://www.amazon.com/Mystery-Sacra
 - [ ] [Novena for a Happy and Faithful Marriage](http://www.josemariaescriva.info/docs/marriage-novena-st-josemaria.pdf)
 - [ ] [Litany of Marriage & Family](http://www.sfcatholic.org/dwc/Files/OfficeofRespectLife/Marriage/Litany%20of%20Marriage%20and%20Family.pdf)
   
-### Articles/Videos
+### Articles & Videos
 - [x] [Sex, Family and the Liberty of the Church](http://archphila.org/2016-tocqueville-lecture-on-religious-liberty-at-the-university-of-notre-dame-sex-family-and-the-liberty-of-the-church/) by Archbishop Charles J. Chaput at the University of Notre Dame
 - [ ] [Catholic Marriage](http://www.catholicpamphlets.net/pamphlets/Catholic%20Marriage.pdf) by Daniel A. Lord S.J.
 - [x] [Art of Manliness Podcast: Saving Your Marriage Before It Starts](https://soundcloud.com/artofmanliness/239-saving-your-marriage-before-it-starts)
 - [x] [The Art of Apologizing](http://www.startmarriageright.com/2016/08/the-art-of-apologizing/)
 - [x] [Reflections on the New Order for Celebrating Matrimony](https://vimeo.com/187742540) by [Msgr James P Moroney](https://twitter.com/rectorsjs)
 - [ ] [How to Spiritually Prepare for Marriage (+ A Checklist!)](http://catholickatie.com/writing/marriage.html)
+- [x] [*A Sorta Catholic’s Very Catholic Wedding*](https://www.americamagazine.org/faith/2017/04/20/sorta-catholics-very-catholic-wedding) by Tracey Wigfield (*America*)
+- [x] [*3 Things You Need to Do for Yourself to Have a Better Marriage*](https://verilymag.com/2017/04/self-care-for-a-happier-marriage) by Monica Gabriel Marshall (*Verily*)
+- [x] [*How Social Media Can Ruin Your Marriage*](https://relevantmagazine.com/article/how-social-media-can-ruin-your-marriage/) by Zack Carter (*Relevant*)
+- [x] [*The Best Ways to Fund Your Relationship Bank Account*](http://www.artofmanliness.com/2017/03/06/best-ways-fund-relationship-bank-account/) by Brett and Kate McKay (*Art of Manliness*)
+- [ ] [*Discerning as a Couple*](http://www.ignatianspirituality.com/24916/discerning-as-a-couple) by Becky Eldredge
+- [ ] [*Laugh Your Way to a Better Marriage](https://www.youtube.com/watch?v=ntk1Tl7dscI) (video)
+- [ ] [*The Humanum Series*](https://vimeo.com/ondemand/humanum) (video)
 
 ### Other Resources
 - [The Engaged and Newlywed Book List](http://catholickatie.com/writing/127.html)
