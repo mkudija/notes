@@ -5,23 +5,20 @@
 | Date                | Event        |
 | ------------------- |:-------------|
 | July 29, 2016       | Engagement   | 
-| August 19, 2016     | Initial meeting with priest | 
-| September 2016      | Began compiling marriage preparation materials | 
 | January 6-8, 2017   | Engaged Encounter Retreat | 
-| ... | ... | 
 | April 29, 2017      | Wedding | 
 
 ## Reading Materials
 ### Church Documents
-- [x] [*Humanae Vitae*: On the Regulation of Birth](http://w2.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html), Paul VI 
-- [ ] [*Familiaris Consortio:* On the Role of the Christian Family in the Modern World](http://w2.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio.html), John Paul II
-- [x] [*Amoris Laetitia:* On Love in the Family](https://w2.vatican.va/content/dam/francesco/pdf/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia_en.pdf), Francis
-- [ ] [*Mulieris Dignitatem* by John Paul II](http://www.thecatholicviewforwomen.com/episodes/mulieris-dignitatem.pdf)
-- [ ] [Catechism of the Catholic Church - The Sacraments at the Service of Communion](http://www.vatican.va/archive/ccc_css/archive/catechism/p2s2c3a7.htm)
-- [ ] [Compendium of the Social Doctrine of the Church](http://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_en.html)
-- [ ] [The Vatican Declaration on Secual Ethics](http://spot.colorado.edu/~tooley/VaticanDeclaration.pdf)
-- [ ] [Sacrament of Marriage: Sign of Faithful Love](http://www.sjotctx.org/pdf/marriage5.pdf) by Thomas Richstatter, O.F.M., Th.D.
-- [x] [Marriage: Love and Life in the Divine Plan](http://www.usccb.org/issues-and-action/marriage-and-family/marriage/love-and-life/upload/pastoral-letter-marriage-love-and-life-in-the-divine-plan.pdf), USCCB
+- [x] [*Humanae Vitae: On the Regulation of Birth*](http://w2.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html) by Paul VI 
+- [ ] [*Familiaris Consortio: On the Role of the Christian Family in the Modern World*](http://w2.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio.html) by John Paul II
+- [ ] [*Mulieris Dignitatem: On the Dignity and Vocation of Women*](http://www.thecatholicviewforwomen.com/episodes/mulieris-dignitatem.pdf) by John Paul II
+- [x] [*Amoris Laetitia: On Love in the Family*](https://w2.vatican.va/content/dam/francesco/pdf/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia_en.pdf) by Francis
+- [ ] [*Catechism of the Catholic Church*](http://www.vatican.va/archive/ccc_css/archive/catechism/p2s2c3a7.htm), The Sacraments at the Service of Communion
+- [ ] [*Compendium of the Social Doctrine of the Church*](http://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_en.html), Chapter 5: The Family, The Vital Cell of Society
+- [ ] [The Vatican Declaration on Sexual Ethics](http://spot.colorado.edu/~tooley/VaticanDeclaration.pdf)
+- [ ] [*Sacrament of Marriage: Sign of Faithful Love*](http://www.sjotctx.org/pdf/marriage5.pdf) by Thomas Richstatter, O.F.M., Th.D.
+- [x] [*Marriage: Love and Life in the Divine Plan*](http://www.usccb.org/issues-and-action/marriage-and-family/marriage/love-and-life/upload/pastoral-letter-marriage-love-and-life-in-the-divine-plan.pdf), USCCB
 - [ ] [USCCB on Marriage](http://www.usccb.org/issues-and-action/marriage-and-family/natural-family-planning/catholic-teaching/upload/Marriage-2.pdf)
 - [ ] [Diocese of Columbus Policies and Guidelines for Marriage Preparation](http://www.colsdioc.org/Portals/0/Departments/CHO/Documents/Marriage%20Policy%202010.pdf)
 - [x] [Address of Pope Francis to Engaged Couples Preparing for Marriage](https://w2.vatican.va/content/francesco/en/speeches/2014/february/documents/papa-francesco_20140214_incontro-fidanzati.html)
@@ -67,7 +64,7 @@ The Mystic](http://www.wordonfire.org/wof-site/media/pp-stcatherine-samplelesson
 - [ ] [Guidelines for the Preparation and Celebration of the Sacrament of Marriage for the Diocese of Fort Worth ](http://fwdioc.org/sacramental_guidelines_marriage.pdf)
 
 ### Dr. Timothy O'Malley - The Nuptial Mystery: Divine Love and Human Salvation
-[Dr. Timothy O'Malley](http://theology.nd.edu/people/concurrent-and-adjunct-faculty/timothy-omalley/) is the Directory of the [Notre Dame Center for Liturgy](http://liturgy.nd.edu/). Dr. O'Malley is a former professor of mine, and shared with me the syllabus for a course he is teaching (fall 2016) on marriage entitled "The Nuptial Mystery: Divine Love and Human Salvation." 
+[Dr. Timothy O'Malley](http://theology.nd.edu/people/concurrent-and-adjunct-faculty/timothy-omalley/) is the Directory of the [Notre Dame Center for Liturgy](http://liturgy.nd.edu/). Dr. O'Malley is a former professor of mine, and shared with me the syllabus for a course he taught (fall 2016) on marriage entitled "The Nuptial Mystery: Divine Love and Human Salvation." 
 
 * [Course Description](https://class-search.nd.edu/reg/srch/ClassSearchServlet?CRN=20652&TERM=201610&P=401094): 
 
@@ -76,6 +73,9 @@ The Mystic](http://www.wordonfire.org/wof-site/media/pp-stcatherine-samplelesson
 * [Course Books](http://www.bkstr.com/webapp/wcs/stores/servlet/booklookServlet?bookstore_id-1=700&term_id-1=201610&div-1=&dept-1=THEO&course-1=20425&section-1=01)
 
 I did not complete the full reading for the course, but found several books and essays helpful. 
+- [ ] [*Mystery and Sacrament of Love: A Theology of Marriage
+and the Family for the New Evangelization*](https://www.amazon.com/Mystery-Sacrament-Love-Theology-Evangelization/dp/0802873340/ref=sr_1_1?ie=UTF8&qid=1504566828&sr=8-1&keywords=Mystery+and+Sacrament+of+Love%3A+A+Theology+of+Marriage+and+the+Family+for+the+New+Evangelization) by Marc Cardinal Ouellet
+- [ ] [*Sex and Virtue: An Introduction to Sexual Ethics*](https://www.amazon.com/Sex-Virtue-Introduction-Catholic-Thought/dp/0813213460/ref=sr_1_1?ie=UTF8&qid=1504566877&sr=8-1&keywords=Sex+and+Virtue%3A+An+Introduction+to+Sexual+Ethics) by John S. Grabowski
 - [x] [*Marriage: The Mystery of Faithful Love*](http://www.cathud.com/emarriage.pdf) by Dietrich Von Hildebrand
   - Love is the core of marriage (*meaning* and *end*)
   - Conjugal love involves mutual self-giving, complete and ultimate
@@ -144,6 +144,5 @@ I did not complete the full reading for the course, but found several books and 
 ### Other Resources
 - [The Engaged and Newlywed Book List](http://catholickatie.com/writing/127.html)
 
-## Engaged Encounter
-
-## NFP Training
+## Natural Family Planning
+See [here](https://github.com/mkudija/Creighton-Model-Chart/blob/master/README.md) for some links to information about NFP.
