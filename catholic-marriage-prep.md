@@ -142,6 +142,7 @@ and the Family for the New Evangelization*](https://www.amazon.com/Mystery-Sacra
 - [ ] [How to Spiritually Prepare for Marriage (+ A Checklist!)](http://catholickatie.com/writing/marriage.html)
 - [x] [*A Sorta Catholic’s Very Catholic Wedding*](https://www.americamagazine.org/faith/2017/04/20/sorta-catholics-very-catholic-wedding) by Tracey Wigfield (*America*)
 - [x] [*3 Things You Need to Do for Yourself to Have a Better Marriage*](https://verilymag.com/2017/04/self-care-for-a-happier-marriage) by Monica Gabriel Marshall (*Verily*)
+- [x] [*After 10 Years of Marriage, Here's What I Wish I Had Learned Before We Said "I Do"*](https://verilymag.com/2016/06/first-year-marriage-lessons-ten-year-anniversary-relationships) by Allison Carter (*Verily*)
 - [x] [*How Social Media Can Ruin Your Marriage*](https://relevantmagazine.com/article/how-social-media-can-ruin-your-marriage/) by Zack Carter (*Relevant*)
 - [x] [*The Best Ways to Fund Your Relationship Bank Account*](http://www.artofmanliness.com/2017/03/06/best-ways-fund-relationship-bank-account/) by Brett and Kate McKay (*Art of Manliness*)
 - [ ] [*Discerning as a Couple*](http://www.ignatianspirituality.com/24916/discerning-as-a-couple) by Becky Eldredge
