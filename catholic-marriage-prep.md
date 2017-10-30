@@ -134,10 +134,11 @@ and the Family for the New Evangelization*](https://www.amazon.com/Mystery-Sacra
 - [ ] [Novena for a Happy and Faithful Marriage](http://www.josemariaescriva.info/docs/marriage-novena-st-josemaria.pdf)
 - [ ] [Litany of Marriage & Family](http://www.sfcatholic.org/dwc/Files/OfficeofRespectLife/Marriage/Litany%20of%20Marriage%20and%20Family.pdf)
   
-### Articles & Videos
+### Articles, Podcasts, and Videos
 - [x] [Sex, Family and the Liberty of the Church](http://archphila.org/2016-tocqueville-lecture-on-religious-liberty-at-the-university-of-notre-dame-sex-family-and-the-liberty-of-the-church/) by Archbishop Charles J. Chaput at the University of Notre Dame
 - [ ] [Catholic Marriage](http://www.catholicpamphlets.net/pamphlets/Catholic%20Marriage.pdf) by Daniel A. Lord S.J.
-- [x] [Art of Manliness Podcast: Saving Your Marriage Before It Starts](https://soundcloud.com/artofmanliness/239-saving-your-marriage-before-it-starts)
+- [x] [Art of Manliness Podcast #239: Saving Your Marriage Before It Starts](https://soundcloud.com/artofmanliness/239-saving-your-marriage-before-it-starts)
+- [x] [Art of Manliness Podcast #349: Is This a Date or Not? The Problem With Ambiguity in Relationships](http://www.artofmanliness.com/2017/10/19/commitment-in-relationships/)
 - [x] [The Art of Apologizing](http://www.startmarriageright.com/2016/08/the-art-of-apologizing/)
 - [x] [Reflections on the New Order for Celebrating Matrimony](https://vimeo.com/187742540) by [Msgr James P Moroney](https://twitter.com/rectorsjs)
 - [ ] [How to Spiritually Prepare for Marriage (+ A Checklist!)](http://catholickatie.com/writing/marriage.html)
