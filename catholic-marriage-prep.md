@@ -151,6 +151,7 @@ and the Family for the New Evangelization*](https://www.amazon.com/Mystery-Sacra
 - [ ] [*Laugh Your Way to a Better Marriage*](https://www.youtube.com/watch?v=ntk1Tl7dscI) (video)
 - [ ] [*The Humanum Series*](https://vimeo.com/ondemand/humanum) (video)
 - [x] [*Humanae Vitae: A Manual for Better Sex?*](https://www.newoxfordreview.org/documents/humanae-vitae-a-manual-for-better-sex/) (*New Oxford Review*)
+- [x] [*Your Kids Aren’t the Priority. Your Spouse Is.*](https://relevantmagazine.com/love-and-money/your-kids-arent-the-priority-your-spouse-is/) (*Relevant*)
 
 ### Other Resources
 - [The Engaged and Newlywed Book List](http://catholickatie.com/writing/127.html)
