@@ -3,6 +3,7 @@
 ## Reading
 ### Books
 - [*Honey for a Child's Heart*](https://www.amazon.com/Honey-Childs-Heart-Gladys-Hunt/dp/0310242460/ref=sr_1_1?ie=UTF8&qid=1532371458&sr=8-1&keywords=honey+for+a+child%27s+heart) by Gladys Hunt
+- [*The Tech-Wise Family: Everyday Steps for Putting Technology in Its Proper Place*](https://www.amazon.com/Tech-Wise-Family-Everyday-Putting-Technology/dp/0801018668/ref=sr_1_1?ie=UTF8&qid=1542477081&sr=8-1&keywords=the+tech+wise+family) by Andy Crouch ([notes here](https://github.com/mkudija/mkudija.github.io/blob/master/reading/notes/2018-11-17-The%20Tech-Wise%20Family.md))
 
 ### Articles
 - New York Times: [*How to Raise a Reader*](https://www.nytimes.com/guides/books/how-to-raise-a-reader
