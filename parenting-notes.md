@@ -3,7 +3,6 @@
 ## Reading
 ### Books
 - [*Honey for a Child's Heart*](https://www.amazon.com/Honey-Childs-Heart-Gladys-Hunt/dp/0310242460/ref=sr_1_1?ie=UTF8&qid=1532371458&sr=8-1&keywords=honey+for+a+child%27s+heart) by Gladys Hunt
-- [*The Tech-Wise Family: Everyday Steps for Putting Technology in Its Proper Place*](https://www.amazon.com/Tech-Wise-Family-Everyday-Putting-Technology/dp/0801018668/ref=sr_1_1?ie=UTF8&qid=1542477081&sr=8-1&keywords=the+tech+wise+family) by Andy Crouch ([notes here](https://github.com/mkudija/mkudija.github.io/blob/master/reading/notes/2018-11-17-The%20Tech-Wise%20Family.md))
 
 ### Articles
 - New York Times: [*How to Raise a Reader*](https://www.nytimes.com/guides/books/how-to-raise-a-reader
@@ -16,9 +15,13 @@
 
 ### Articles
 - Washington Post: [*To my daughter, who taught me not to worry about time*](https://www.washingtonpost.com/opinions/to-my-daughter-who-taught-me-not-to-worry-about-time/2018/06/06/163dc034-6900-11e8-bea7-c8eb28bc52b1_story.html?utm_term=.bc1e7db291ad)
+- Catholic All Year: [*How To Raise Good Little Catholics*](http://www.catholicallyear.com/2015/08/how-to-raise-good-little-catholics.html)
 
 
 ## Technology
 
 ### Articles
 - Medium: [*The Tech Industry's Psychological War on Kids*](https://medium.com/@richardnfreed/the-tech-industrys-psychological-war-on-kids-c452870464ce)
+
+### Books
+- [*The Tech-Wise Family: Everyday Steps for Putting Technology in Its Proper Place*](https://www.amazon.com/Tech-Wise-Family-Everyday-Putting-Technology/dp/0801018668/ref=sr_1_1?ie=UTF8&qid=1542477081&sr=8-1&keywords=the+tech+wise+family) by Andy Crouch ([notes here](https://github.com/mkudija/mkudija.github.io/blob/master/reading/notes/2018-11-17-The%20Tech-Wise%20Family.md))
