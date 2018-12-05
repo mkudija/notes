@@ -16,6 +16,7 @@
 ### Articles
 - Washington Post: [*To my daughter, who taught me not to worry about time*](https://www.washingtonpost.com/opinions/to-my-daughter-who-taught-me-not-to-worry-about-time/2018/06/06/163dc034-6900-11e8-bea7-c8eb28bc52b1_story.html?utm_term=.bc1e7db291ad)
 - Catholic All Year: [*How To Raise Good Little Catholics*](http://www.catholicallyear.com/2015/08/how-to-raise-good-little-catholics.html)
+- [*Pediatricians Say Kids Need Simple Toys, Not iPads And Electronics*](https://www.scarymommy.com/aap-statement-toys-electronics/?utm_source=FB)
 
 
 ## Technology
