@@ -8,6 +8,8 @@
 - New York Times: [*How to Raise a Reader*](https://www.nytimes.com/guides/books/how-to-raise-a-reader
 ), which is a good short version of *Honey For A Child's Heart* though reading that is much preferred.
 - Aleteia: [*Why you should be taking your kids to the library regularly*](https://aleteia.org/2018/04/15/why-regular-visits-to-the-library-is-a-must-for-all-kids/)..."Take your child to the library. Confiscate all electronic devices and set him free to wander among the books. Don’t force him to read anything in specific and don’t worry if the book he ends up reading doesn’t seem to measure up to Dickens."
+- Screen-Free Parenting: [*Wrapping Up Reading – A Holiday Tradition*](https://www.screenfreeparenting.com/wrapping-up-reading-a-holiday-tradition/)
+- Screen-Free Parenting: [*Books vs. Screens: 6 Reasons Books Win Every time*](https://www.screenfreeparenting.com/books-vs-screens-6-reasons-books-win-everytime/)
 
 
 
