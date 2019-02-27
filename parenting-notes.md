@@ -30,6 +30,7 @@
 
 ### Articles
 - Medium: [*The Tech Industry's Psychological War on Kids*](https://medium.com/@richardnfreed/the-tech-industrys-psychological-war-on-kids-c452870464ce)
+- First Things: [*Look at Me: On Our Need for Real Presence in a Distracted World*](https://www.firstthings.com/article/2016/05/look-at-me) by Patricia Snow
 
 ### Books
 - [*The Tech-Wise Family: Everyday Steps for Putting Technology in Its Proper Place*](https://www.amazon.com/Tech-Wise-Family-Everyday-Putting-Technology/dp/0801018668/ref=sr_1_1?ie=UTF8&qid=1542477081&sr=8-1&keywords=the+tech+wise+family) by Andy Crouch ([notes here](https://github.com/mkudija/mkudija.github.io/blob/master/reading/notes/2018-11-17-The%20Tech-Wise%20Family.md))
