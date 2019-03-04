@@ -152,6 +152,7 @@ and the Family for the New Evangelization*](https://www.amazon.com/Mystery-Sacra
 - [ ] [*The Humanum Series*](https://vimeo.com/ondemand/humanum) (video)
 - [x] [*Humanae Vitae: A Manual for Better Sex?*](https://www.newoxfordreview.org/documents/humanae-vitae-a-manual-for-better-sex/) (*New Oxford Review*)
 - [x] [*Your Kids Aren’t the Priority. Your Spouse Is.*](https://relevantmagazine.com/love-and-money/your-kids-arent-the-priority-your-spouse-is/) (*Relevant*)
+- [x] [*Money Matters: How Our Budget Benefits Our Marriage*](https://verilymag.com/2019/01/money-matters-how-our-budget-benefits-our-marriage) (*Verily*)
 
 ### Other Resources
 - [The Engaged and Newlywed Book List](http://catholickatie.com/writing/127.html)
