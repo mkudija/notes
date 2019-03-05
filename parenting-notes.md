@@ -15,6 +15,10 @@
 
 ## General
 
+### Books
+- [ ] [*There's No Such Thing as Bad Weather*](https://www.amazon.com/Theres-Such-Thing-Bad-Weather/dp/150114362X/ref=sr_1_1?crid=20911MCXTRS4R&keywords=There%27s+No+Such+Thing+as+Bad+Weather&qid=1551747529&s=gateway&sprefix=shadow+white+9%2F1%2Caps%2C167&sr=8-1) by Linda Åkeson McGurk
+- [x] [*The Gift of Failure*](https://www.amazon.com/Gift-Failure-Parents-Children-Succeed/dp/0062299255/ref=sr_1_1?crid=20911MCXTRS4R&keywords=the+gift+of+failure&qid=1551747643&s=gateway&sprefix=shadow+white+9%2F1%2Caps%2C167&sr=8-1) by Jessica Lahey
+
 ### Articles
 - Washington Post: [*To my daughter, who taught me not to worry about time*](https://www.washingtonpost.com/opinions/to-my-daughter-who-taught-me-not-to-worry-about-time/2018/06/06/163dc034-6900-11e8-bea7-c8eb28bc52b1_story.html?utm_term=.bc1e7db291ad)
 - Catholic All Year: [*How To Raise Good Little Catholics*](http://www.catholicallyear.com/2015/08/how-to-raise-good-little-catholics.html)
