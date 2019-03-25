@@ -29,3 +29,6 @@
 **INSURANCE**
 - Denny Bolton Insurance Agency
 
+**HANDYMAN**
+- Handyman Services Plus, (614) 288-8341
+- [The Handsome Handyman](https://www.handsome-handyman.com/) (Kyle Wilkinson)
