@@ -27,6 +27,7 @@
 - New York Times: [*The Relentlessness of Modern Parenting*](https://www.nytimes.com/2018/12/25/upshot/the-relentlessness-of-modern-parenting.html)
 - Verily: [*Leaning Into a Season of Slowness*](https://verilymag.com/2019/01/why-im-embracing-a-season-of-slowness?fbclid=IwAR3TMbjfbz2rAf6BzHEqtv891VDLTszvAFB1FPhrN0ymjNQN8k5rEDFZ_Gg) by Kellie B. Moore
 - New Oxford Review: [*A Map for the Christian Family-Man*](https://www.newoxfordreview.org/documents/a-map-for-the-christian-family-man/)
+- IFS: [*Reclaiming a Father’s Presence at Home*](https://ifstudies.org/blog/reclaiming-a-fathers-presence-at-home)
 
 ### Videos
 - [Frank Abagnale Video](https://youtu.be/vsMydMDi3rI?t=1273): reflection on family, marriage, and fatherhood
