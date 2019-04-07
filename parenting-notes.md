@@ -1,17 +1,5 @@
 # Parenting Notes
 
-## Reading
-### Books
-- [*Honey for a Child's Heart*](https://www.amazon.com/Honey-Childs-Heart-Gladys-Hunt/dp/0310242460/ref=sr_1_1?ie=UTF8&qid=1532371458&sr=8-1&keywords=honey+for+a+child%27s+heart) by Gladys Hunt
-
-### Articles
-- New York Times: [*How to Raise a Reader*](https://www.nytimes.com/guides/books/how-to-raise-a-reader
-), which is a good short version of *Honey For A Child's Heart* though reading that is much preferred.
-- Aleteia: [*Why you should be taking your kids to the library regularly*](https://aleteia.org/2018/04/15/why-regular-visits-to-the-library-is-a-must-for-all-kids/)..."Take your child to the library. Confiscate all electronic devices and set him free to wander among the books. Don’t force him to read anything in specific and don’t worry if the book he ends up reading doesn’t seem to measure up to Dickens."
-- Screen-Free Parenting: [*Wrapping Up Reading – A Holiday Tradition*](https://www.screenfreeparenting.com/wrapping-up-reading-a-holiday-tradition/)
-- Screen-Free Parenting: [*Books vs. Screens: 6 Reasons Books Win Every time*](https://www.screenfreeparenting.com/books-vs-screens-6-reasons-books-win-everytime/)
-
-
 
 ## General
 
@@ -27,10 +15,30 @@
 - New York Times: [*The Relentlessness of Modern Parenting*](https://www.nytimes.com/2018/12/25/upshot/the-relentlessness-of-modern-parenting.html)
 - Verily: [*Leaning Into a Season of Slowness*](https://verilymag.com/2019/01/why-im-embracing-a-season-of-slowness?fbclid=IwAR3TMbjfbz2rAf6BzHEqtv891VDLTszvAFB1FPhrN0ymjNQN8k5rEDFZ_Gg) by Kellie B. Moore
 - New Oxford Review: [*A Map for the Christian Family-Man*](https://www.newoxfordreview.org/documents/a-map-for-the-christian-family-man/)
-- IFS: [*Reclaiming a Father’s Presence at Home*](https://ifstudies.org/blog/reclaiming-a-fathers-presence-at-home)
+- Principles: [*A Father's Prescence in the Home*](https://www.getprinciples.com/a-fathers-presence-in-the-home/)
+  - Abridged version in IFS: [*Reclaiming a Father’s Presence at Home*](https://ifstudies.org/blog/reclaiming-a-fathers-presence-at-home)
 
 ### Videos
 - [Frank Abagnale Video](https://youtu.be/vsMydMDi3rI?t=1273): reflection on family, marriage, and fatherhood
+
+
+
+
+
+## Reading
+
+### Books
+- [*Honey for a Child's Heart*](https://www.amazon.com/Honey-Childs-Heart-Gladys-Hunt/dp/0310242460/ref=sr_1_1?ie=UTF8&qid=1532371458&sr=8-1&keywords=honey+for+a+child%27s+heart) by Gladys Hunt
+
+### Articles
+- New York Times: [*How to Raise a Reader*](https://www.nytimes.com/guides/books/how-to-raise-a-reader
+), which is a good short version of *Honey For A Child's Heart* though reading that is much preferred.
+- Aleteia: [*Why you should be taking your kids to the library regularly*](https://aleteia.org/2018/04/15/why-regular-visits-to-the-library-is-a-must-for-all-kids/)..."Take your child to the library. Confiscate all electronic devices and set him free to wander among the books. Don’t force him to read anything in specific and don’t worry if the book he ends up reading doesn’t seem to measure up to Dickens."
+- Screen-Free Parenting: [*Wrapping Up Reading – A Holiday Tradition*](https://www.screenfreeparenting.com/wrapping-up-reading-a-holiday-tradition/)
+- Screen-Free Parenting: [*Books vs. Screens: 6 Reasons Books Win Every time*](https://www.screenfreeparenting.com/books-vs-screens-6-reasons-books-win-everytime/)
+
+
+
 
 ## Technology
 
