@@ -17,6 +17,7 @@
 - New Oxford Review: [*A Map for the Christian Family-Man*](https://www.newoxfordreview.org/documents/a-map-for-the-christian-family-man/)
 - Principles: [*A Father's Prescence in the Home*](https://www.getprinciples.com/a-fathers-presence-in-the-home/)
   - Abridged version in IFS: [*Reclaiming a Father’s Presence at Home*](https://ifstudies.org/blog/reclaiming-a-fathers-presence-at-home)
+- The Evangelista: [*How My Parents Raised Four Adult Catholics Who (Still) Love Jesus and the Church*](https://www.theevangelista.com/faith/raising-kids-who-stay-catholic)
 
 ### Videos
 - [Frank Abagnale Video](https://youtu.be/vsMydMDi3rI?t=1273): reflection on family, marriage, and fatherhood
