@@ -18,6 +18,7 @@
 - Principles: [*A Father's Prescence in the Home*](https://www.getprinciples.com/a-fathers-presence-in-the-home/)
   - Abridged version in IFS: [*Reclaiming a Father’s Presence at Home*](https://ifstudies.org/blog/reclaiming-a-fathers-presence-at-home)
 - The Evangelista: [*How My Parents Raised Four Adult Catholics Who (Still) Love Jesus and the Church*](https://www.theevangelista.com/faith/raising-kids-who-stay-catholic)
+- First Things: [*Love, and Be Silent*](https://www.firstthings.com/article/2019/05/love-and-be-silent)
 
 ### Videos
 - [Frank Abagnale Video](https://youtu.be/vsMydMDi3rI?t=1273): reflection on family, marriage, and fatherhood
