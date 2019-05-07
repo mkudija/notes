@@ -20,6 +20,7 @@
 - The Evangelista: [*How My Parents Raised Four Adult Catholics Who (Still) Love Jesus and the Church*](https://www.theevangelista.com/faith/raising-kids-who-stay-catholic)
 - First Things: [*Love, and Be Silent*](https://www.firstthings.com/article/2019/05/love-and-be-silent)
 - Verily: [*Embracing the Unexpected in Motherhood*](https://verilymag.com/2019/04/embracing-the-lovely-unpredictability-of-motherhood)
+- Happy Families: [*Can Easy Parenting Be Good Parenting?*](https://www.happyfamilies.com.au/blog/easy-parenting/)
 
 ### Videos
 - [Frank Abagnale Video](https://youtu.be/vsMydMDi3rI?t=1273): reflection on family, marriage, and fatherhood
