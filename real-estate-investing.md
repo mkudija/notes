@@ -8,6 +8,7 @@
 
 **INSPECTOR**
 - [Comprehensive Dwelling Evaluations](http://cdehomeinspection.com/) (Jason Corrigan)
+- Nick Sung, PE: nick@nicksungengineering.com 
 
 **FINANCING**
 - [First Financial Bank](https://www.bankatfirst.com/content/first-financial-bank/home/personal/mortgage-loan/loanofficer/michael-reeve.html) (Michael Reeve)
@@ -32,3 +33,8 @@
 **HANDYMAN**
 - Handyman Services Plus, (614) 288-8341
 - [The Handsome Handyman](https://www.handsome-handyman.com/) (Kyle Wilkinson)
+
+**PAINTER**
+- CertaPro Painters, Dan Goodman
+- Fuller & Son Painting, Gavin Price-Fuller 
+
