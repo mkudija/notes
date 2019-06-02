@@ -32,13 +32,13 @@
 ### 2019-01-27 Christ
 *Fr. Dailey*
 
-<img src="https://github.com/mkudija/blog/raw/master/content/images/wood-projects/2019-01-27-Christ2.jpg" width="50%"/>
+<img src="https://github.com/mkudija/blog/raw/master/content/images/wood-projects/2019-01-27-Christ2.JPG" width="50%"/>
 
 
 ### 2019-01-27 Christ
 *Fr. Missimi*
 
-<img src="https://github.com/mkudija/blog/raw/master/content/images/wood-projects/2019-01-27-Christ.jpg" width="50%"/>
+<img src="https://github.com/mkudija/blog/raw/master/content/images/wood-projects/2019-01-27-Christ.JPG" width="50%"/>
 
 ### 2018-12-31 Christ
 *Molly and Dolores*
