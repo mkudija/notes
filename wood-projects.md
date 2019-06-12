@@ -33,7 +33,7 @@
 ## Wood Carving Projects
 
 
-### 2019-06-11 Christ
+### 2019-06-11 St. Joseph
 *Dad*
 
 <img src="https://github.com/mkudija/blog/raw/master/content/images/wood-projects/2019-06-11-St.%20Joseph.jpg" width="50%"/>
