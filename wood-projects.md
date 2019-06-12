@@ -8,6 +8,10 @@
 
 <img src="https://github.com/mkudija/blog/raw/master/content/images/bookshelf/bookshelf_final.jpg" width="75%"/>
 
+### 2017-05-27 Picnic Table
+
+<img src="https://github.com/mkudija/blog/raw/master/content/images/wood-projects/2017-05-27-Picnic%20Table.jpg" width="75%"/>
+
 ### 2017-04-07 Side Tables
 
 <img src="https://github.com/mkudija/blog/raw/master/content/images/wood-projects/2017-04-07-Side%20Tables.jpg" width="75%"/>
@@ -27,6 +31,12 @@
 
 
 ## Wood Carving Projects
+
+
+### 2019-06-11 Christ
+*Dad*
+
+<img src="https://github.com/mkudija/blog/raw/master/content/images/wood-projects/2019-06-11-St.%20Joseph.jpg" width="50%"/>
 
 
 ### 2019-01-27 Christ
