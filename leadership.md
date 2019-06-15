@@ -16,4 +16,13 @@
   - asking questions creates engagement in the people with whom you work
   - people prefer to choose to do things rather than be told to do things: help them choose to do what you want them to do
   - "can you be the leader here?"
-- **8:08**:   
+- **8:08**: "reading without Dr. Seuss"
+  - the world says "no", and we need to get around that no
+  - curiosity can be the cure to that "no" whether from the world or from inside our head
+  - speeches:
+    - don't prepare too far in advance
+    - who is the audience and what do they want to hear about?
+    - stories: people like stories, and stories are easier to remember when you're giving them
+  - make the hardest call of the day first
+  - "if you harness curiosity to your dreams, it can help power them long-term"
+- **13:26**:
