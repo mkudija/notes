@@ -25,4 +25,8 @@
     - stories: people like stories, and stories are easier to remember when you're giving them
   - make the hardest call of the day first
   - "if you harness curiosity to your dreams, it can help power them long-term"
-- **13:26**:
+- **13:26**: Questions
+  - if you really want to know what people think and want them to take responsibility, you must ask questions which takes time
+  - questions must come from genuine curiosity, and you have to really *listen* to the answer
+- **17:20**: familiarity
+  - familiarity is the enemy of curiosity: we must remain genuinely interested in our family
