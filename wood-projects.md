@@ -8,6 +8,10 @@
 
 <img src="https://github.com/mkudija/blog/raw/master/content/images/bookshelf/bookshelf_final.jpg" width="75%"/>
 
+### 2017-12-09 Window Bookshelf
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2017-12-09-Window%20Bookshelf.jpg" width="75%"/>
+
 ### 2017-05-27 Picnic Table
 
 <img src="https://github.com/mkudija/blog/raw/master/content/images/wood-projects/2017-05-27-Picnic%20Table.jpg" width="75%"/>
