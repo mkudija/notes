@@ -36,5 +36,16 @@
 
 **PAINTER**
 - CertaPro Painters, Dan Goodman
-- Fuller & Son Painting, Gavin Price-Fuller 
+- Fuller & Son Painting, Gavin Price-Fuller
+- [Reds Painting](http://www.redspainting.com/)(614-397-8144)
 
+**PLUMBER**
+- [Gunther Plumbing LLC](https://www.guntherplumbing.com/) (614-580-9406)
+
+**GUTTER CLEANING**
+- [Reds Gutter Cleaning](http://www.redsguttercleaning.com/) (614-397-8144)
+
+**CLEANERS**
+
+**VENTS & CARPETS**
+- The Carpet Doctors
