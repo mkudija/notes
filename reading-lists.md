@@ -9,12 +9,14 @@
 - [Best Catholic Books of All-Time](https://brandonvogt.com/best-catholic-books-of-all-time/) by Brandon Vogt
 - [*Read Your Way to Heaven*](https://www.amazon.com/How-Read-Your-Way-Heaven/dp/1622823605/ref=sr_1_1?ie=UTF8&qid=1542381704&sr=8-1&keywords=read+your+way+to+heaven) by Vicki Burbach
 - [#CathLIT](https://www.carrotsformichaelmas.com/2018/12/19/a-reading-challenge-for-catholics-in-2019-cathlit/) by Haley Stewart
+- [Nick Senger's Catholic Reading List](http://nicksenger.com/onecatholiclife/books/nicks-catholic-classics-reading-list) (in which he surveys 16 other reading lists) 
 
 ## Classics
 - [The Master Works of Western Civilization](http://www2.latech.edu/~bmagee/201/great_books_etexts.html)
 - [Program of Liberal Studies](https://pls.nd.edu/requirements-and-courses/great-books-seminars/) of Notre Dame
 - [Great Books Curriculum](https://www.sjc.edu/academic-programs/undergraduate/great-books-reading-list) of St. John's College
 - [*The Well-Educated Mind*](https://www.amazon.com/Well-Educated-Mind-Classical-Education-Expanded/dp/039308096X/ref=sr_1_1?ie=UTF8&qid=1542381656&sr=8-1&keywords=susan+wise+bauer) by Susan Wise Bauer
+- [Nick Senger's Classics Reading List](http://nicksenger.com/onecatholiclife/books/nicks-summary-of-great-books-lists) (in which he surveys 16 other reading lists) 
 
 
 ## Kids
