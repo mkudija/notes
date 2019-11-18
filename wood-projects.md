@@ -1,5 +1,9 @@
 # Woodworking Projects
 
+### 2019-11-06 Dining Table
+
+<img src="https://github.com/mkudija/blog/raw/master/content/images/dining-table/dining-table-finished-1.jpg" width="75%"/>
+
 ### 2019-11-03 Height Chart
 
 <img src="https://github.com/mkudija/blog/raw/master/content/images/height-chart/height-chart1.jpg" width="50%"/>
