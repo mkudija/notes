@@ -1,5 +1,10 @@
 # Woodworking Projects
 
+
+### 2019-11-16 Picture Frame
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2019-11-16-picture-frame.png.jpg" width="75%"/>
+
 ### 2019-11-06 Dining Table
 
 <img src="https://github.com/mkudija/blog/raw/master/content/images/dining-table/dining-table-finished-1.jpg" width="75%"/>
