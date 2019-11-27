@@ -3,7 +3,7 @@
 
 ### 2019-11-16 Picture Frame
 
-<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2019-11-16-picture-frame.png.jpg" width="75%"/>
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2019-11-16-picture-frame.png" width="75%"/>
 
 ### 2019-11-06 Dining Table
 
