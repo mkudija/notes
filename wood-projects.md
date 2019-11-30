@@ -13,6 +13,10 @@
 
 <img src="https://github.com/mkudija/blog/raw/master/content/images/height-chart/height-chart1.jpg" width="50%"/>
 
+### 2019-10-05 Bassinet Stand
+
+<img src="https://github.com/mkudija/blog/raw/master/content/images/wood-projects/2019-10-05-bassinet-stand.jpg" width="50%"/>
+
 ### 2019-05-30 Console Table
 
 <img src="https://github.com/mkudija/blog/raw/master/content/images/console-table/complete.jpg" width="75%"/>
