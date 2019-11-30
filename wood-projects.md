@@ -21,10 +21,6 @@
 
 <img src="https://github.com/mkudija/blog/raw/master/content/images/console-table/complete.jpg" width="75%"/>
 
-### 2018-12-20 Baby Rattle
-
-<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2018-12-20-baby-rattle.jpg" width="75%"/>
-
 ### 2018-03-24 Bookshelf Expansion
 
 <img src="https://github.com/mkudija/blog/raw/master/content/images/bookshelf/bookshelf_final.jpg" width="75%"/>
@@ -97,4 +93,7 @@
 
 <img src="https://github.com/mkudija/blog/raw/master/content/images/wood-projects/2019-09-22-File%20Handle.jpg" width="75%"/>
 
+### 2018-12-20 Baby Rattle
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2018-12-20-baby-rattle.jpg" width="75%"/>
 
