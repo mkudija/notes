@@ -44,6 +44,9 @@
 
 **GUTTER CLEANING**
 - [Reds Gutter Cleaning](http://www.redsguttercleaning.com/) (614-397-8144)
+- Dan The Gutterman: danthegutterman@gmail.com
+  - $145 to clean the gutters, downspouts and haul away all debris
+  - $225 to snake the underground drains from the house to the street 
 
 **CLEANERS**
 
