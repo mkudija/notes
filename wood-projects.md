@@ -21,6 +21,10 @@
 
 <img src="https://github.com/mkudija/blog/raw/master/content/images/console-table/complete.jpg" width="75%"/>
 
+### 2018-12-22 Guitar Stand
+
+<img src="https://github.com/mkudija/blog/raw/master/content/images/wood-projects/2018-12-22-guitar-stand.png" width="75%"/>
+
 ### 2018-03-24 Bookshelf Expansion
 
 <img src="https://github.com/mkudija/blog/raw/master/content/images/bookshelf/bookshelf_final.jpg" width="75%"/>
