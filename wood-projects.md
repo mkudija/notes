@@ -110,8 +110,7 @@
 
 ### 2019-12-07 Crosscut Sled
 
-<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2019-12-07-crosscut-sled.jpg
-.jpg" width="75%"/>
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2019-12-07-crosscut-sled.jpg" width="75%"/>
 
 
 ### 2019-05-11 Vice Restoration
