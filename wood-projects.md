@@ -101,3 +101,12 @@
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2018-12-20-baby-rattle.jpg" width="75%"/>
 
+
+# Workshop Projects
+
+### 2019-12-07 Drill Holder
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2019-12-07-drill-holder.jpg" width="75%"/>
+
+
+
