@@ -13,6 +13,11 @@
 **FINANCING**
 - [First Financial Bank](https://www.bankatfirst.com/content/first-financial-bank/home/personal/mortgage-loan/loanofficer/michael-reeve.html) (Michael Reeve)
 
+**ACCOUNTANT**
+- Mark Welp (MWelp@holbrookmanter.com), 614-570-5467
+  - ~$1000 per LLC return
+
+
 **LEGAL**
 - [Matt Moberg](https://www.porterwright.com/matthew-e-moberg/) (Porter Wright)
   - LCC and commercial
