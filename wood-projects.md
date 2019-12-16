@@ -104,6 +104,10 @@
 
 # Workshop Projects
 
+### 2019-12-15 Push Blocks
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2019-12-15-push-blocks.jpg" width="75%"/>
+
 ### 2019-12-07 Drill Holder
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2019-12-07-drill-holder.jpg" width="75%"/>
@@ -111,7 +115,6 @@
 ### 2019-12-07 Crosscut Sled
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2019-12-07-crosscut-sled.jpg" width="75%"/>
-
 
 ### 2019-05-11 Vise Restoration
 
