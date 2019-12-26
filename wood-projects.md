@@ -1,6 +1,10 @@
 # Woodworking Projects
 
 
+### 2019-12-23 Picture Frame
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2019-12-23-picture-frame.png" width="75%"/>
+
 ### 2019-11-16 Picture Frame
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2019-11-16-picture-frame.png" width="75%"/>
