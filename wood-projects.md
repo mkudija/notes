@@ -1,6 +1,14 @@
 # Woodworking Projects
 
 
+### 2019-12-29 Cutting Board
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2019-12-29-cutting-board.jpg" width="75%"/>
+
+### 2019-12-27 Picture Frame
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2019-12-27-picture-frame.jpg" width="75%"/>
+
 ### 2019-12-23 Picture Frame
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2019-12-23-picture-frame.png" width="75%"/>
