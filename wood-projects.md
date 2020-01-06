@@ -1,6 +1,10 @@
 # Woodworking Projects
 
 
+### 2020-01-05 Cutting Board
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-01-05-cutting-board.jpg" width="75%"/>
+
 ### 2019-12-29 Cutting Board
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2019-12-29-cutting-board.jpg" width="75%"/>
