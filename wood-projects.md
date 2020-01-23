@@ -1,6 +1,11 @@
 # Woodworking Projects
 
 
+2020-01-23-wine-rack.jpg
+### 2020-01-23 Wine Rack
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-01-23-wine-rack.jpg" width="75%"/>
+
 ### 2020-01-21 Photo Rack
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-01-21-photo-rack.jpg" width="75%"/>
