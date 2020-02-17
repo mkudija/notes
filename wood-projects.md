@@ -1,7 +1,10 @@
 # Woodworking Projects
 
 
-2020-01-23-wine-rack.jpg
+### 2020-01-27 Rocket Stand
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-01-27-rocket-stand.jpg" width="75%"/>
+
 ### 2020-01-23 Wine Rack
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-01-23-wine-rack.jpg" width="75%"/>
