@@ -133,6 +133,10 @@
 
 # Workshop Projects
 
+### 2020-02-16 Mobile Work Bench
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-02-16-mobile-work-bench.jpg" width="75%"/>
+
 ### 2019-12-15 Push Blocks
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2019-12-15-push-blocks.jpg" width="75%"/>
