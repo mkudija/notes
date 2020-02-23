@@ -111,7 +111,8 @@
 
 
 ### 2019-01-27 Christ
-*Fr. Missimi*
+<font color="white">Fr. Missimi</font>
+
 
 <img src="https://github.com/mkudija/blog/raw/master/content/images/wood-projects/2019-01-27-Christ.jpg" width="50%"/>
 
