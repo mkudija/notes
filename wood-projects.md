@@ -1,6 +1,14 @@
 # Woodworking Projects
 
 
+### 2020-02-22 Organizer
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-02-22-organizer.jpg" width="75%"/>
+
+### 2020-02-22 Dig Pit
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-02-22-dig-pit.jpg" width="75%"/>
+
 ### 2020-01-27 Rocket Stand
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-01-27-rocket-stand.jpg" width="75%"/>
