@@ -1,6 +1,19 @@
 # Woodworking Projects
 
 
+
+### 2020-04-01 Wood Wall
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-04-01-wood-wall.jpg" width="75%"/>
+
+### 2020-03-28 Mirror and Bar
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-03-28-mirror-bar.jpg" width="75%"/>
+
+### 2020-03-22 Kitchen Stool
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-03-22-kitchen-stool.jpg" width="75%"/>
+
 ### 2020-02-22 Organizer
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-02-22-organizer.jpg" width="75%"/>
@@ -143,6 +156,12 @@
 
 
 # Workshop Projects
+
+
+
+### 2020-03-14 Lumber Rack
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-03-14-lumber-rack.jpg" width="75%"/>
 
 ### 2020-02-16 Mobile Work Bench
 
