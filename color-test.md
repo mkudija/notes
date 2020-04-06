@@ -10,3 +10,11 @@ black
 ! white
 blue
 ```
+
+<details>
+  <summary></summary>
+  <p>Mom</p>
+  ```diff
+  # Mom
+  ```
+</details>
