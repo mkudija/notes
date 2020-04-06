@@ -35,24 +35,16 @@
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-01-21-photo-rack.jpg" width="75%"/>
 
 ### 2020-01-19 Cutting Board
-<details>
-  <summary></summary>
-  <code><color=gray>Mom</code>
-</details>
 
-<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-01-19-cutting-board.jpg" width="75%"/>
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-01-19-cutting-board_Mom.jpg" width="75%"/>
 
 ### 2020-01-05 Cutting Board
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-01-05-cutting-board.jpg" width="75%"/>
 
 ### 2019-12-29 Cutting Board
-<details>
-  <summary></summary>
-  <code><color=gray>Pasternack</code>
-</details>
 
-<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2019-12-29-cutting-board.jpg" width="75%"/>
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2019-12-29-cutting-board_Pasternack.jpg" width="75%"/>
 
 ### 2019-12-27 Picture Frame
 
@@ -63,12 +55,8 @@
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2019-12-23-picture-frame.png" width="75%"/>
 
 ### 2019-11-16 Picture Frame
-<details>
-  <summary></summary>
-  <code><color=gray>Dad</code>
-</details>
 
-<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2019-11-16-picture-frame.png" width="75%"/>
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2019-11-16-picture-frame_Dad.png" width="75%"/>
 
 ### 2019-11-06 Dining Table
 
@@ -123,38 +111,22 @@
 
 
 ### 2019-06-11 St. Joseph
-<details>
-  <summary></summary>
-  <code><color=gray>Dad</code>
-</details>
 
-<img src="https://github.com/mkudija/blog/raw/master/content/images/wood-projects/2019-06-11-St.%20Joseph.jpg" width="50%"/>
+<img src="https://github.com/mkudija/blog/raw/master/content/images/wood-projects/2019-06-11-St.%20Joseph_Dad.jpg" width="50%"/>
 
 
 ### 2019-01-27 Christ
-<details>
-  <summary></summary>
-  <code><color=gray>Dailey</code>
-</details>
 
-<img src="https://github.com/mkudija/blog/raw/master/content/images/wood-projects/2019-01-27-Christ2.jpg" width="50%"/>
+<img src="https://github.com/mkudija/blog/raw/master/content/images/wood-projects/2019-01-27-Christ_Dailey.jpg" width="50%"/>
 
 
 ### 2019-01-27 Christ
-<details>
-  <summary></summary>
-  <code><color=gray>Missimi</code>
-</details>
 
-<img src="https://github.com/mkudija/blog/raw/master/content/images/wood-projects/2019-01-27-Christ.jpg" width="50%"/>
+<img src="https://github.com/mkudija/blog/raw/master/content/images/wood-projects/2019-01-27-Christ_Missimi.jpg" width="50%"/>
 
 ### 2018-12-31 Christ
-<details>
-  <summary></summary>
-  <code><color=gray>Molly, Dolores</code>
-</details>
-  
-<img src="https://github.com/mkudija/blog/raw/master/content/images/wood-projects/2018-12-31-Christ.png" width="50%"/>
+
+<img src="https://github.com/mkudija/blog/raw/master/content/images/wood-projects/2018-12-31-Christ_Molly_Dolores.png" width="50%"/>
 
 ### 2018-12-25 Christ
 
