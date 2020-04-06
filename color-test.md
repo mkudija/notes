@@ -17,4 +17,5 @@ blue
   ```diff
   # Mom
   ```
+  <code><color=gray>Mom</code>
 </details>
