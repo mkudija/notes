@@ -35,6 +35,10 @@
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-01-21-photo-rack.jpg" width="75%"/>
 
 ### 2020-01-19 Cutting Board
+<details>
+  <summary></summary>
+  <code><color=gray>Mom</code>
+</details>
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-01-19-cutting-board.jpg" width="75%"/>
 
@@ -43,6 +47,10 @@
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-01-05-cutting-board.jpg" width="75%"/>
 
 ### 2019-12-29 Cutting Board
+<details>
+  <summary></summary>
+  <code><color=gray>Pasternack</code>
+</details>
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2019-12-29-cutting-board.jpg" width="75%"/>
 
