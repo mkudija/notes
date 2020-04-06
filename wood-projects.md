@@ -55,6 +55,10 @@
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2019-12-23-picture-frame.png" width="75%"/>
 
 ### 2019-11-16 Picture Frame
+<details>
+  <summary></summary>
+  <code><color=gray>Dad</code>
+</details>
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2019-11-16-picture-frame.png" width="75%"/>
 
@@ -94,7 +98,6 @@
 
 <img src="https://github.com/mkudija/blog/raw/master/content/images/wood-projects/2017-04-07-Side%20Tables.jpg" width="75%"/>
 
-
 ### 2017-03-26 Bookshelf 
 <img src="https://github.com/mkudija/blog/raw/master/content/images/bookshelf/bookshelf_original.jpg" width="75%"/>
 
@@ -112,29 +115,40 @@
 
 
 ### 2019-06-11 St. Joseph
-*Dad*
+<details>
+  <summary></summary>
+  <code><color=gray>Dad</code>
+</details>
 
 <img src="https://github.com/mkudija/blog/raw/master/content/images/wood-projects/2019-06-11-St.%20Joseph.jpg" width="50%"/>
 
 
 ### 2019-01-27 Christ
-*Fr. Dailey*
+<details>
+  <summary></summary>
+  <code><color=gray>Dailey</code>
+</details>
 
 <img src="https://github.com/mkudija/blog/raw/master/content/images/wood-projects/2019-01-27-Christ2.jpg" width="50%"/>
 
 
 ### 2019-01-27 Christ
-*Fr. Missimi*
+<details>
+  <summary></summary>
+  <code><color=gray>Missimi</code>
+</details>
 
 <img src="https://github.com/mkudija/blog/raw/master/content/images/wood-projects/2019-01-27-Christ.jpg" width="50%"/>
 
 ### 2018-12-31 Christ
-*Molly and Dolores*
-
+<details>
+  <summary></summary>
+  <code><color=gray>Molly, Dolores</code>
+</details>
+  
 <img src="https://github.com/mkudija/blog/raw/master/content/images/wood-projects/2018-12-31-Christ.png" width="50%"/>
 
 ### 2018-12-25 Christ
-*in our home*
 
 <img src="https://github.com/mkudija/blog/raw/master/content/images/wood-projects/2018-12-25-Christ.jpg" width="50%"/>
 
