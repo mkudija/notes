@@ -2,6 +2,10 @@
 
 
 
+### 2020-04-17 Hat Rack
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-04-17-hat-rack.jpg" width="75%"/>
+
 ### 2020-04-01 Wood Wall
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-04-01-wood-wall.jpg" width="75%"/>
