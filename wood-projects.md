@@ -6,6 +6,10 @@
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-04-17-hat-rack.jpg" width="75%"/>
 
+### 2020-04-11 Outdoor Lights
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-04-11-outdoor-lights.jpg" width="75%"/>
+
 ### 2020-04-01 Wood Wall
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-04-01-wood-wall.jpg" width="75%"/>
