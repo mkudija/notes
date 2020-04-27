@@ -2,6 +2,10 @@
 
 
 
+### 2020-04-27 Kids Table
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-04-27-kids-table.jpg" width="75%"/>
+
 ### 2020-04-17 Hat Rack
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-04-17-hat-rack.jpg" width="75%"/>
