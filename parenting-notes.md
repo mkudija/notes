@@ -22,6 +22,7 @@
 - Verily: [*Embracing the Unexpected in Motherhood*](https://verilymag.com/2019/04/embracing-the-lovely-unpredictability-of-motherhood)
 - Happy Families: [*Can Easy Parenting Be Good Parenting?*](https://www.happyfamilies.com.au/blog/easy-parenting/)
 - Catholic All Year: [*Our One Parenting Rule for a Less Hectic Home*](https://catholicallyear.com/blog/our-one-family-rule-for-a-less-hectic-home/)
+- Wsahington Examiner: [*America is awash in overmothered men*](https://www.washingtonexaminer.com/opinion/america-is-awash-in-overmothered-men)
 
 ### Videos
 - [Frank Abagnale Video](https://youtu.be/vsMydMDi3rI?t=1273): reflection on family, marriage, and fatherhood
