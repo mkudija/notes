@@ -1,6 +1,10 @@
 # Woodworking Projects
 
 
+### 2020-05-29 Murphy Bed
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-05-29-murphy-bed.png" width="75%"/>
+
 ### 2020-05-10 Bath Tray
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-05-10-bath-tray.jpg" width="75%"/>
