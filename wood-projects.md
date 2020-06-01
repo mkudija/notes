@@ -1,6 +1,12 @@
 # Woodworking Projects
 
 
+
+
+### 2020-05-31 Cutting Board
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-05-31-cutting-board_Madj.jpg" width="75%"/>
+
 ### 2020-05-29 Murphy Bed
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-05-29-murphy-bed.png" width="75%"/>
