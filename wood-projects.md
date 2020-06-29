@@ -132,8 +132,28 @@
 
 
 
-# Wood Carving Projects
+# Wood Turning Projects
 
+### 2020-06-27 Bowl
+
+*Maple finished with mineral oil / wax*
+
+<img src="https://github.com/mkudija/blog/raw/master/content/images/wood-projects/2020-06-27-maple-bowl.jpg" width="75%"/>
+
+### 2019-09-22 File Handle
+
+<img src="https://github.com/mkudija/blog/raw/master/content/images/wood-projects/2019-09-22-File%20Handle.jpg" width="75%"/>
+
+### 2018-12-20 Baby Rattle
+
+*Cedar finished with mineral oil / wax*
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2018-12-20-baby-rattle.jpg" width="75%"/>
+
+
+
+
+# Wood Carving Projects
 
 ### 2019-06-11 St. Joseph
 
@@ -163,20 +183,9 @@
 
 
 
-# Wood Turning Projects
-
-### 2019-09-22 File Handle
-
-<img src="https://github.com/mkudija/blog/raw/master/content/images/wood-projects/2019-09-22-File%20Handle.jpg" width="75%"/>
-
-### 2018-12-20 Baby Rattle
-
-<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2018-12-20-baby-rattle.jpg" width="75%"/>
 
 
 # Workshop Projects
-
-
 
 ### 2020-06-07 Dust Cart
 
