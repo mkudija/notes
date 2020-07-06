@@ -138,6 +138,19 @@
 
 # Wood Turning Projects
 
+
+### 2020-07-05 Bowl
+
+*Maple finished with Danish oil*
+
+<img src="https://github.com/mkudija/blog/raw/master/content/images/wood-projects/2020-07-05-bowl.jpg" width="75%"/>
+
+### 2020-07-04 Bowl
+
+*Maple finished with Danish oil*
+
+<img src="https://github.com/mkudija/blog/raw/master/content/images/wood-projects/2020-07-04-bowl.jpg" width="75%"/>
+
 ### 2020-06-27 Bowl
 
 *Maple finished with mineral oil / wax*
