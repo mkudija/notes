@@ -204,6 +204,12 @@
 
 # Workshop Projects
 
+
+
+### 2020-07-12 Tool Wall
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-07-12-tool-wall.jpg" width="75%"/>
+
 ### 2020-06-07 Dust Cart
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-06-07-dust-cart.jpg" width="75%"/>
