@@ -3,6 +3,10 @@
 
 
 
+### 2020-07-13 Kitchen Pegboard
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-07-13-kitchen-pots.jpg" width="75%"/>
+
 ### 2020-07-04 Swings
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-07-04-swingset.jpg" width="75%"/>
