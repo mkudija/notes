@@ -12,8 +12,10 @@
 
 **FINANCING**
 - [First Financial Bank](https://www.bankatfirst.com/content/first-financial-bank/home/personal/mortgage-loan/loanofficer/michael-reeve.html) (Michael Reeve)
+- First Merchants Bank (Chris Miller)
 
 **ACCOUNTANT**
+- Nate Busch (nate@buschtax.com)
 - Mark Welp (MWelp@holbrookmanter.com), 614-570-5467
   - ~$1000 per LLC return
 
@@ -34,6 +36,9 @@
 
 **INSURANCE**
 - Denny Bolton Insurance Agency
+
+**CONTRACTOR**
+- Buford Myers,  614-207-3408 (did Patterson front porch)
 
 **HANDYMAN**
 - Handyman Services Plus, (614) 288-8341
