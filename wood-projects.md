@@ -2,6 +2,9 @@
 
 
 
+### 2020-09-05 Picture Frame
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-09-05-GMH-frame.jpg" width="75%"/>
 
 ### 2020-07-13 Kitchen Pegboard
 
