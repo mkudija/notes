@@ -2,6 +2,11 @@
 
 
 
+
+### 2020-09-26 Mixer Shelf
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-09-26-mixer-shelf.jpg" width="75%"/>
+
 ### 2020-09-05 Picture Frame
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-09-05-GMH-frame.jpg" width="75%"/>
