@@ -8,6 +8,10 @@
 - [x] [*The Gift of Failure*](https://www.amazon.com/Gift-Failure-Parents-Children-Succeed/dp/0062299255/ref=sr_1_1?crid=20911MCXTRS4R&keywords=the+gift+of+failure&qid=1551747643&s=gateway&sprefix=shadow+white+9%2F1%2Caps%2C167&sr=8-1) by Jessica Lahey
 - [x] [*Successful Fathers: The Subtle but Powerful Ways Fathers Mold Their Children's Characters*](https://www.amazon.com/Successful-Fathers-Powerful-Childrens-Characters/dp/1889334375/ref=sr_1_1?dchild=1&keywords=Successful+Fathers%3A+The+Subtle+but+Powerful+Ways+Fathers+Mold+Their+Children%27s+Characters+by+James+B.+Stenson&qid=1588687319&sr=8-1) by James B. Stenson
 - [x] [*How to Raise Good Catholic Children*](https://www.amazon.com/How-Raise-Good-Catholic-Children/dp/1928832865/ref=sr_1_1?dchild=1&keywords=How+to+Raise+Good+Catholic+Children+by+Mary+Reed+Newland&qid=1588687251&sr=8-1) by Mary Reed Newland
+- [x] [*Oh Crap! Potty Training: Everything Modern Parents Need to Know*] by Jamie Glowacki
+- [ ] [*The Montessori Toddler*](https://www.amazon.com/Montessori-Toddler-Parents-Raising-Responsible/dp/152350689X/ref=sr_1_3?crid=1SHK3MTM48PXM&dchild=1&keywords=the+montessori+toddler&qid=1602262866&sprefix=women%27s+bath%2Caps%2C214&sr=8-3) by Simone Davies
+- [ ] [*Simplicity Parenting*](https://www.amazon.com/Simplicity-Parenting-Extraordinary-Calmer-Happier/dp/0345507983/ref=sr_1_1?crid=1SHK3MTM48PXM&dchild=1&keywords=simplicity+parenting&qid=1602262865&sprefix=women%27s+bath%2Caps%2C214&sr=8-1) by Kim John Payne
+
 
 ### Articles
 - Washington Post: [*To my daughter, who taught me not to worry about time*](https://www.washingtonpost.com/opinions/to-my-daughter-who-taught-me-not-to-worry-about-time/2018/06/06/163dc034-6900-11e8-bea7-c8eb28bc52b1_story.html?utm_term=.bc1e7db291ad)
