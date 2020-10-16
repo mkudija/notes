@@ -19,6 +19,9 @@
 - Mark Welp (MWelp@holbrookmanter.com), 614-570-5467
   - ~$1000 per LLC return
 
+**PRESSURE WASHING**
+- [https://www.curbappealclean.com/](https://www.curbappealclean.com/) (saw sign in Limestone Pointe)
+
 
 **LEGAL**
 - [Matt Moberg](https://www.porterwright.com/matthew-e-moberg/) (Porter Wright)
