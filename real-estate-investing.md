@@ -43,6 +43,10 @@
 **CONTRACTOR**
 - Buford Myers,  614-207-3408 (did Patterson front porch)
 
+**ELECTRICAL**
+- Garcia Maintenance & Repair - Miguel is a great guy and reasonable pricing - you can text or call his wife Jenny to set up an appointment (614) 316-2907
+- Rice Electric - (614) 374-9626
+
 **HANDYMAN**
 - Handyman Services Plus, (614) 288-8341
 - [The Handsome Handyman](https://www.handsome-handyman.com/), (614) 636-3537 (Kyle Wilkinson)
