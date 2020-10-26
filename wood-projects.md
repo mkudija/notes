@@ -2,6 +2,9 @@
 
 
 
+### 2020-10-24 Fireplace Bench
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-10-24-fireplace-bench.jpg" width="75%"/>
 
 ### 2020-09-26 Mixer Shelf
 
