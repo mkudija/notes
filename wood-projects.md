@@ -1,7 +1,6 @@
 # Woodworking Projects
 
 
-
 ### 2020-10-24 Fireplace Bench
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-10-24-fireplace-bench.jpg" width="75%"/>
@@ -220,6 +219,10 @@
 # Workshop Projects
 
 
+
+### 2020-10-26 Square
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-10-27-square.jpg" width="75%"/>
 
 ### 2020-07-12 Tool Wall
 
