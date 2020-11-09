@@ -227,6 +227,11 @@
 
 
 
+
+### 2020-11-08 Thermometer Cover
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-11-08-thermometer-cover.jpg" width="75%"/>
+
 ### 2020-10-26 Square
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-10-27-square.jpg" width="75%"/>
