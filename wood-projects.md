@@ -1,6 +1,12 @@
 # Woodworking Projects
 
 
+
+
+### 2020-11-15 Bell Mount
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-11-15-bell-mount.jpg" width="75%"/>
+
 ### 2020-10-24 Fireplace Bench
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-10-24-fireplace-bench.jpg" width="75%"/>
