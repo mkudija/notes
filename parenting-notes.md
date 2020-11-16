@@ -54,6 +54,9 @@
 - Screen-Free Parenting: [*Books vs. Screens: 6 Reasons Books Win Every time*](https://www.screenfreeparenting.com/books-vs-screens-6-reasons-books-win-everytime/)
 - Word on Fire: [*The Family Bookshelf: Secular Books Can Complement Catholic Catechesis*](https://www.wordonfire.org/resources/blog/the-family-bookshelf-secular-books-can-complement-catholic-catechesis/27639/)
 
+### Videos
+- [Fr. Vincent Lampert on Harry Potter](https://youtu.be/nhhi7Fk3ueI?t=3000)
+
 
 
 
