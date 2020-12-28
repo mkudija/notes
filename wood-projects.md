@@ -2,6 +2,9 @@
 
 
 
+### 2020-12-28 Walnut Slab Table
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-12-28-walnut-slab-table.jpg" width="75%"/>
 
 ### 2020-11-15 Bell Mount
 
