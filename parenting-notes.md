@@ -33,6 +33,7 @@
 - Montessori in Real Life: [*Navigating the Not-So-Terrible Twos*](https://www.montessoriinreallife.com/home/2019/9/9/navigating-not-so-terrible-twos)
 - Leila Miller: [*The biggest mistake of modern Catholic parenting*](https://www.leilamiller.net/blog/2020/7/12/the-biggest-mistake-of-modern-catholic-parenting)
 - Word on Fire: [*If you want faithful children, let them see your own faith every day*](https://www.wordonfire.org/resources/blog/if-you-want-faithful-children-let-them-see-your-own-faith-every-day/28000/)
+- Plough: [*The Case for One More Child*](https://www.plough.com/en/topics/life/parenting/the-case-for-one-more-child)
 
 ### Videos
 - [Frank Abagnale Video](https://youtu.be/vsMydMDi3rI?t=1273): reflection on family, marriage, and fatherhood
