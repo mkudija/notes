@@ -2,6 +2,10 @@
 
 
 
+### 2021-01-05 Home Office
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2021-01-05-home-office.jpg" width="75%"/>
+
 ### 2020-12-28 Walnut Slab Table
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-12-28-walnut-slab-table.jpg" width="75%"/>
