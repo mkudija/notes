@@ -2,6 +2,12 @@
 
 
 
+
+
+### 2021-01-10 Side Table
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2021-01-10-side-table.jpg" width="75%"/>
+
 ### 2021-01-05 Home Office
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2021-01-05-home-office.jpg" width="75%"/>
