@@ -58,6 +58,11 @@
 
 **PLUMBER**
 - [Gunther Plumbing LLC](https://www.guntherplumbing.com/) (614-580-9406)
+- Muetzel
+- Old Hilliard Plumbing
+- Faust Plumbing Plain City
+- Jerod McKenzie (614-207-9134)
+- Fixation Handyman & Remodeling (614-702-3042)
 
 **GUTTER CLEANING**
 - [Reds Gutter Cleaning](http://www.redsguttercleaning.com/) (614-397-8144)
