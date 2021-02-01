@@ -2,7 +2,9 @@
 
 
 
+### 2021-01-31 Tabernacle
 
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2021-01-31-tabernacle.jpg" width="75%"/>
 
 ### 2021-01-10 Side Table
 
