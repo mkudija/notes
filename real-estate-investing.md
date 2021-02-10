@@ -74,3 +74,9 @@
 
 **VENTS & CARPETS**
 - The Carpet Doctors
+
+**ROOFER**
+- Rugh Remodeling (Matt: 614-313-3359)
+- RTL Roofing and Remodeling (Rich Linak: 614-632-7443)
+- Newman Roofing
+- Benchmark Roofing 
