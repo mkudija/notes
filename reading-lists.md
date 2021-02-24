@@ -18,6 +18,7 @@
 - [*The Well-Educated Mind*](https://www.amazon.com/Well-Educated-Mind-Classical-Education-Expanded/dp/039308096X/ref=sr_1_1?ie=UTF8&qid=1542381656&sr=8-1&keywords=susan+wise+bauer) by Susan Wise Bauer
 - [Nick Senger's Classics Reading List](http://nicksenger.com/onecatholiclife/books/nicks-summary-of-great-books-lists) (in which he surveys 16 other reading lists) 
 - [Magdalen College](https://magdalen.edu/academics/program-of-studies/sequence-of-readings/)
+- [Tommy Collison Great Books Program](https://tommycollison.com/greatbooks)
 
 
 ## Kids
