@@ -4,7 +4,7 @@
 
 ### 2021-03-02 Mini Workbench
 
-<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2021-03-03-mini-workbench.jpg" width="75%"/>
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2021-03-02-mini-workbench.jpg" width="75%"/>
 
 ### 2021-01-31 Tabernacle
 
