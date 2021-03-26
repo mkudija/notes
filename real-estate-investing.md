@@ -12,7 +12,7 @@
 
 **FINANCING**
 - [First Financial Bank](https://www.bankatfirst.com/content/first-financial-bank/home/personal/mortgage-loan/loanofficer/michael-reeve.html) (Michael Reeve)
-- First Merchants Bank (Chris Miller)
+- First Merchants Bank (Chris Miller) **DO NOT USE—THEY ARE AWFUL FOR BOTH ORIGINATION AND CONTINUING CUSTOMER SERVICE**
 
 **ACCOUNTANT**
 - Nate Busch (nate@buschtax.com)
