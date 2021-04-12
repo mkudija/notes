@@ -2,6 +2,10 @@
 
 
 
+### 2021-04-10 Headband Rack 
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2021-04-10-headband-rack.jpg" width="75%"/>
+
 ### 2021-03-02 Mini Workbench
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2021-03-02-mini-workbench.jpg" width="75%"/>
