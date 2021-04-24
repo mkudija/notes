@@ -12,6 +12,7 @@
 - [ ] [*The Montessori Toddler*](https://www.amazon.com/Montessori-Toddler-Parents-Raising-Responsible/dp/152350689X/ref=sr_1_3?crid=1SHK3MTM48PXM&dchild=1&keywords=the+montessori+toddler&qid=1602262866&sprefix=women%27s+bath%2Caps%2C214&sr=8-3) by Simone Davies
 - [ ] [*Simplicity Parenting*](https://www.amazon.com/Simplicity-Parenting-Extraordinary-Calmer-Happier/dp/0345507983/ref=sr_1_1?crid=1SHK3MTM48PXM&dchild=1&keywords=simplicity+parenting&qid=1602262865&sprefix=women%27s+bath%2Caps%2C214&sr=8-1) by Kim John Payne
 - [ ] [*Bringing Up Bébé*](https://www.amazon.com/Bringing-Up-B%C3%A9b%C3%A9-Discovers-Parenting/dp/0143122967/ref=sr_1_1?crid=1SHK3MTM48PXM&dchild=1&keywords=raising+bebe&qid=1602262960&sprefix=women%27s+bath%2Caps%2C214&sr=8-1) by Pamela Druckerman
+- [ ] [*Handing Down the Faith: How Parents Pass Their Religion on to the Next Generation*](https://www.amazon.com/dp/0190093323/?coliid=I3SWFT1643F0MQ&colid=1NCFPXAATKNAZ&psc=1&ref_=lv_ov_lig_dp_it) by Christian Smith (from [*Keeping the Faith*](https://www.firstthings.com/article/2021/05/keeping-the-faith))
 
 
 ### Articles
@@ -34,6 +35,7 @@
 - Leila Miller: [*The biggest mistake of modern Catholic parenting*](https://www.leilamiller.net/blog/2020/7/12/the-biggest-mistake-of-modern-catholic-parenting)
 - Word on Fire: [*If you want faithful children, let them see your own faith every day*](https://www.wordonfire.org/resources/blog/if-you-want-faithful-children-let-them-see-your-own-faith-every-day/28000/)
 - Plough: [*The Case for One More Child*](https://www.plough.com/en/topics/life/parenting/the-case-for-one-more-child)
+- First Things: [*Keeping the Faith*](https://www.firstthings.com/article/2021/05/keeping-the-faith)
 
 ### Videos
 - [Frank Abagnale Video](https://youtu.be/vsMydMDi3rI?t=1273): reflection on family, marriage, and fatherhood
