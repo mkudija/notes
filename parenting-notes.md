@@ -36,6 +36,9 @@
 - Word on Fire: [*If you want faithful children, let them see your own faith every day*](https://www.wordonfire.org/resources/blog/if-you-want-faithful-children-let-them-see-your-own-faith-every-day/28000/)
 - Plough: [*The Case for One More Child*](https://www.plough.com/en/topics/life/parenting/the-case-for-one-more-child)
 - First Things: [*Keeping the Faith*](https://www.firstthings.com/article/2021/05/keeping-the-faith)
+- Her View From Home: [*The Benefits of Having Kids Close Together that No One Ever Told Me*](https://herviewfromhome.com/the-benefits-of-having-kids-close-together-that-no-one-ever-told-me/)
+- Her View From Home[*Having Kids Close Together Means They Have Built-in Best Friends For Life*](https://herviewfromhome.com/kids-siblings-close-in-age/)
+
 
 ### Videos
 - [Frank Abagnale Video](https://youtu.be/vsMydMDi3rI?t=1273): reflection on family, marriage, and fatherhood
