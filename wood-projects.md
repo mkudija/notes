@@ -181,7 +181,11 @@
 
 # Wood Turning Projects
 
+### 2021-05-01 Bowls
 
+*Walnut finished with Danish oil*
+
+<img src="https://github.com/mkudija/blog/raw/master/content/images/wood-projects/2021-05-01_bowls.jpg" width="75%"/>
 
 ### 2020-11-05 Bowls
 
