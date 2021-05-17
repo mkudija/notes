@@ -2,6 +2,12 @@
 
 
 
+
+
+### 2021-05-16 Walnut Cutting Boards
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2021-05-16-walnut-cutting-boards.jpg" width="75%"/>
+
 ### 2021-04-10 Headband Rack 
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2021-04-10-headband-rack.jpg" width="75%"/>
