@@ -37,7 +37,8 @@
 - Plough: [*The Case for One More Child*](https://www.plough.com/en/topics/life/parenting/the-case-for-one-more-child)
 - First Things: [*Keeping the Faith*](https://www.firstthings.com/article/2021/05/keeping-the-faith)
 - Her View From Home: [*The Benefits of Having Kids Close Together that No One Ever Told Me*](https://herviewfromhome.com/the-benefits-of-having-kids-close-together-that-no-one-ever-told-me/)
-- Her View From Home[*Having Kids Close Together Means They Have Built-in Best Friends For Life*](https://herviewfromhome.com/kids-siblings-close-in-age/)
+- Her View From Home: [*Having Kids Close Together Means They Have Built-in Best Friends For Life*](https://herviewfromhome.com/kids-siblings-close-in-age/)
+- NCR: [*2021-05-24 Article-‘Woke’ Catholic Schools Offer Poison in Place of the Gospel*](https://www.ncregister.com/blog/woke-catholic-schools)
 
 
 ### Videos
