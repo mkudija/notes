@@ -4,6 +4,10 @@
 
 
 
+### 2021-06-20 Mallet
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2021-06-20-Mallet.jpg" width="75%"/>
+
 ### 2021-05-16 Walnut Cutting Boards
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2021-05-16-walnut-cutting-boards.jpg" width="75%"/>
@@ -35,6 +39,10 @@
 ### 2020-11-15 Bell Mount
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-11-15-bell-mount.jpg" width="75%"/>
+
+### 2020-10-26 Square
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-10-27-square.jpg" width="75%"/>
 
 ### 2020-10-24 Fireplace Bench
 
@@ -270,10 +278,6 @@
 ### 2020-11-08 Thermometer Cover
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-11-08-thermometer-cover.jpg" width="75%"/>
-
-### 2020-10-26 Square
-
-<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-10-27-square.jpg" width="75%"/>
 
 ### 2020-07-12 Tool Wall
 
