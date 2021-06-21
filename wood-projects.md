@@ -5,11 +5,12 @@
 
 
 ### 2021-06-20 Mallet
-*manzanita, walnut, maple*
+*manzanita & maple head, walnut handle*
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2021-06-20-Mallet2.jpg" width="75%"/>
 
-### 2021-05-16 Walnut Cutting Boards
+### 2021-05-16 Cutting Boards
+*walnut*
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2021-05-16-walnut-cutting-boards.jpg" width="75%"/>
 
@@ -18,14 +19,17 @@
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2021-04-10-headband-rack.jpg" width="75%"/>
 
 ### 2021-03-02 Mini Workbench
+*poplar*
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2021-03-02-mini-workbench.jpg" width="75%"/>
 
 ### 2021-01-31 Tabernacle
+*cherry with maple splines*
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2021-01-31-tabernacle.jpg" width="75%"/>
 
 ### 2021-01-10 Side Table
+*pine*
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2021-01-10-side-table.jpg" width="75%"/>
 
@@ -42,6 +46,7 @@
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-11-15-bell-mount.jpg" width="75%"/>
 
 ### 2020-10-26 Square
+*maple, unknown Chilean hardwood*
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-10-27-square.jpg" width="75%"/>
 
@@ -66,18 +71,22 @@
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-07-04-swingset.jpg" width="75%"/>
 
 ### 2020-05-31 Cutting Board
+*maple, walnut*
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-05-31-cutting-board_Madj.jpg" width="75%"/>
 
 ### 2020-05-29 Murphy Bed
+*red oak plywood*
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-05-29-murphy-bed.png" width="75%"/>
 
 ### 2020-05-10 Bath Tray
+*ambrosia maple*
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-05-10-bath-tray.jpg" width="75%"/>
 
 ### 2020-04-27 Kids Table
+*red oak*
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-04-27-kids-table.jpg" width="75%"/>
 
@@ -90,6 +99,7 @@
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-04-11-outdoor-lights.jpg" width="75%"/>
 
 ### 2020-04-01 Wood Wall
+*salvaged pallet wood*
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-04-01-wood-wall.jpg" width="75%"/>
 
@@ -98,6 +108,7 @@
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-03-28-mirror-bar.jpg" width="75%"/>
 
 ### 2020-03-22 Kitchen Stool
+*white ash*
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-03-22-kitchen-stool.jpg" width="75%"/>
 
@@ -122,14 +133,17 @@
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-01-21-photo-rack.jpg" width="75%"/>
 
 ### 2020-01-19 Cutting Board
+*maple, walnut*
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-01-19-cutting-board_Mom.jpg" width="75%"/>
 
 ### 2020-01-05 Cutting Board
+*maple, walnut*
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2020-01-05-cutting-board.jpg" width="75%"/>
 
 ### 2019-12-29 Cutting Board
+*ambrosia maple*
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2019-12-29-cutting-board_Pasternack.jpg" width="75%"/>
 
@@ -146,6 +160,7 @@
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2019-11-16-picture-frame_Dad.png" width="75%"/>
 
 ### 2019-11-06 Dining Table
+*ambrosia maple*
 
 <img src="https://github.com/mkudija/blog/raw/master/content/images/dining-table/dining-table-finished-1.jpg" width="75%"/>
 
@@ -301,6 +316,7 @@
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2019-12-15-push-blocks.jpg" width="75%"/>
 
 ### 2019-12-07 Drill Holder
+*almond*
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2019-12-07-drill-holder.jpg" width="75%"/>
 
