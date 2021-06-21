@@ -5,8 +5,9 @@
 
 
 ### 2021-06-20 Mallet
+*manzanita, walnut, maple*
 
-<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2021-06-20-Mallet.jpg" width="75%"/>
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2021-06-20-Mallet2.jpg" width="75%"/>
 
 ### 2021-05-16 Walnut Cutting Boards
 
