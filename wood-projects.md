@@ -4,6 +4,11 @@
 
 
 
+### 2021-07-01 Cutting Boards
+*maple, cherry, walnut*
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2021-07-01-Cutting Boards.jpg" width="75%"/>
+
 ### 2021-06-20 Mallet
 *manzanita & maple head, walnut handle*
 
