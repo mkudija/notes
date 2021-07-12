@@ -5,7 +5,7 @@
 
 
 ### 2021-07-11 Mercedarian Shield
-*maple, cherry, resin*
+*maple, cherry, resin; see [original](https://en.wikipedia.org/wiki/Order_of_the_Blessed_Virgin_Mary_of_Mercy)*
 
 <img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2021-07-11-Mercedarian-shield.jpg" width="75%"/>
 
