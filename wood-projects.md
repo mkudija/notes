@@ -4,6 +4,12 @@
 
 
 
+### 2021-07-11 Mercedarian Shield
+*maple, cherry, resin*
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2021-07-11-Mercedarian-shield.jpg" width="75%"/>
+
+
 ### 2021-07-01 Cutting Boards
 *maple, cherry, walnut*
 
