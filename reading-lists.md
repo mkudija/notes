@@ -19,6 +19,7 @@
 - [Nick Senger's Classics Reading List](http://nicksenger.com/onecatholiclife/books/nicks-summary-of-great-books-lists) (in which he surveys 16 other reading lists) 
 - [Magdalen College](https://magdalen.edu/academics/program-of-studies/sequence-of-readings/)
 - [Tommy Collison Great Books Program](https://tommycollison.com/greatbooks)
+- [Books of Titans](https://www.booksoftitans.com/great-books/)
 
 
 ## Kids
