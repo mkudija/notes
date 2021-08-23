@@ -4,6 +4,13 @@
 
 
 
+
+### 2021-08-22 Mudroom Cubbies
+*Ikea hack with trim moulding*
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2021-08-22-mudroom-cubbies.jpg" width="75%"/>
+
+
 ### 2021-07-11 Mercedarian Shield
 *maple, cherry, resin; see [original](https://en.wikipedia.org/wiki/Order_of_the_Blessed_Virgin_Mary_of_Mercy)*
 
