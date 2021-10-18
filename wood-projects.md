@@ -3,6 +3,16 @@
 
 
 
+### 2021-10-17 Corner Shelves
+*Pine*
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2021-10-17-corner-shelves.jpg" width="75%"/>
+
+
+### 2021-09-30 Holy Family Altar Bell Mount
+*Walnut*
+
+<img src="https://github.com/mkudija/blog/blob/master/content/images/wood-projects/2021-09-30-hf-altar-bell-mount.jpg" width="75%"/>
 
 
 ### 2021-08-22 Mudroom Cubbies
